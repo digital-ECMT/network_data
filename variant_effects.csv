@@ -7,42 +7,22 @@
 "ABL1 GoF","variant","CBL","ONCOGENE",2,1
 "ABL1 GoF","variant","CCND2","ONCOGENE",3,1
 "ABL1 GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
-"ABL1 GoF","variant","CCND1","ONCOGENE",3,0
+"ABL1 GoF","variant","CCND1","ONCOGENE",3,1
 "ABL1 GoF","variant","MYC","ONCOGENE",3,1
 "ABL1 GoF","variant","BCL2","ONCOGENE",3,1
 "ABL1 GoF","variant","CCND3","ONCOGENE",3,1
 "ABL1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "ABL1 GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"ABL1 GoF","variant","STAT6","ONCOGENE",3,0
 "ABL1 GoF","variant","SOS1","ONCOGENE",3,1
-"ABL1 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"ABL1 GoF","variant","PDGFRA","ONCOGENE",3,0
-"ABL1 GoF","variant","PDGFRB","ONCOGENE",3,0
-"ABL1 GoF","variant","FGFR1","ONCOGENE",3,0
-"ABL1 GoF","variant","KIT","ONCOGENE",3,0
-"ABL1 GoF","variant","NTRK1","ONCOGENE",3,0
-"ABL1 GoF","variant","ERBB2","ONCOGENE",3,0
-"ABL1 GoF","variant","MET","ONCOGENE",3,0
-"ABL1 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"ABL1 GoF","variant","FGFR4","ONCOGENE",3,0
-"ABL1 GoF","variant","EGFR","ONCOGENE",3,0
-"ABL1 GoF","variant","FGFR2","ONCOGENE",3,0
-"ABL1 GoF","variant","FGFR3","ONCOGENE",3,0
-"ABL1 GoF","variant","FLT3","ONCOGENE",3,0
-"ABL1 GoF","variant","KDR","ONCOGENE",3,0
-"ABL1 GoF","variant","ERBB3","ONCOGENE",3,0
-"ABL1 GoF","variant","RB1","TUMOUR SUPPRESSOR",2,0
-"ABL1 GoF","variant","MYC","ONCOGENE",2,0
-"ABL1 GoF","variant","CDK4","ONCOGENE",3,0
 "ACKR3 GoF","variant","ACKR3","ONCOGENE",1,1
 "ACSL3 GoF","variant","ACSL3","ONCOGENE",1,1
 "ACVR2A LoF","variant","ACVR2A","TUMOUR SUPPRESSOR",1,-1
 "AKT1 GoF","variant","AKT1","ONCOGENE",1,1
-"AKT1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","RELA","ONCOGENE",3,0
-"AKT1 GoF","variant","BCL2","ONCOGENE",3,0
+"AKT1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
+"AKT1 GoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,1
+"AKT1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
+"AKT1 GoF","variant","RELA","ONCOGENE",3,1
+"AKT1 GoF","variant","BCL2","ONCOGENE",3,1
 "AKT1 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,1
 "AKT1 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,1
 "AKT1 GoF","variant","MDM2","ONCOGENE",2,1
@@ -54,23 +34,21 @@
 "AKT1 GoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,1
 "AKT1 GoF","variant","MTOR","ONCOGENE",3,1
 "AKT1 GoF","variant","RAF1","ONCOGENE",2,-1
-"AKT1 GoF","variant","MAP2K1","ONCOGENE",3,0
+"AKT1 GoF","variant","MAP2K1","ONCOGENE",3,-1
 "AKT1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
-"AKT1 GoF","variant","CCND3","ONCOGENE",3,0
-"AKT1 GoF","variant","CDK4","ONCOGENE",3,0
-"AKT1 GoF","variant","CCND1","ONCOGENE",3,0
-"AKT1 GoF","variant","CCND2","ONCOGENE",3,0
-"AKT1 GoF","variant","CTNNB1","ONCOGENE",3,0
-"AKT1 GoF","variant","MYC","ONCOGENE",3,0
-"AKT1 GoF","variant","AXIN2","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","AXIN1","TUMOUR SUPPRESSOR",3,0
+"AKT1 GoF","variant","CCND3","ONCOGENE",3,1
+"AKT1 GoF","variant","CDK4","ONCOGENE",3,1
+"AKT1 GoF","variant","CCND1","ONCOGENE",3,1
+"AKT1 GoF","variant","CCND2","ONCOGENE",3,1
+"AKT1 GoF","variant","CTNNB1","ONCOGENE",3,1
+"AKT1 GoF","variant","MYC","ONCOGENE",3,1
 "AKT1 GoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "AKT1 GoF","variant","MDM2","ONCOGENE",3,-1
-"AKT1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"AKT1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "AKT1 GoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "AKT1 GoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "AKT1 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"AKT1 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"AKT1 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "AKT1 GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
 "AKT1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",2,-1
 "AKT1 GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",2,-1
@@ -78,10 +56,6 @@
 "AKT1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",2,-1
 "AKT1 GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",2,-1
 "AKT1 GoF","variant","RXRA","TUMOUR SUPPRESSOR",3,1
-"AKT1 GoF","variant","PTPN13","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","TRAF3","TUMOUR SUPPRESSOR",3,0
-"AKT1 GoF","variant","BIRC3","ONCOGENE",3,0
-"AKT1 GoF","variant","RELA","ONCOGENE",2,0
 "ALK GoF","variant","ALK","ONCOGENE",1,1
 "ALK GoF","variant","KRAS","ONCOGENE",2,1
 "ALK GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
@@ -91,10 +65,9 @@
 "ALK GoF","variant","RAF1","ONCOGENE",3,1
 "ALK GoF","variant","RALGDS","ONCOGENE",3,1
 "ALK GoF","variant","PIK3CA","ONCOGENE",3,1
-"ALK GoF","variant","AKT1","ONCOGENE",3,0
+"ALK GoF","variant","AKT1","ONCOGENE",3,1
 "ALK GoF","variant","MTOR","ONCOGENE",3,1
 "ALK GoF","variant","RAC1","ONCOGENE",3,1
-"ALK GoF","variant","VAV1","ONCOGENE",3,0
 "ALK GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "ALK GoF","variant","STAT6","ONCOGENE",3,1
 "ALK GoF","variant","PTPN11","ONCOGENE",3,1
@@ -102,131 +75,80 @@
 "ALK GoF","variant","PIK3CA","ONCOGENE",2,1
 "ALK GoF","variant","PLCG1","ONCOGENE",2,1
 "ALK GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"ALK GoF","variant","PRKCB","ONCOGENE",3,0
+"ALK GoF","variant","PRKCB","ONCOGENE",3,1
 "ALK GoF","variant","NRAS","ONCOGENE",2,1
 "ALK GoF","variant","HRAS","ONCOGENE",2,1
 "ALK GoF","variant","PIK3CB","ONCOGENE",2,1
 "APC LoF","variant","APC","TUMOUR SUPPRESSOR",1,-1
 "APC LoF","variant","SMO","ONCOGENE",3,1
-"APC LoF","variant","CTNNB1","ONCOGENE",3,0
-"APC LoF","variant","AXIN2","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","AXIN1","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","CTNNB1","ONCOGENE",2,0
-"APC LoF","variant","CCND2","ONCOGENE",3,0
-"APC LoF","variant","CCND3","ONCOGENE",3,0
-"APC LoF","variant","TCF7L2","ONCOGENE",3,0
-"APC LoF","variant","CCND1","ONCOGENE",3,0
-"APC LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","RAC1","ONCOGENE",3,0
-"APC LoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"APC LoF","variant","TBL1XR1","TUMOUR SUPPRESSOR",3,0
+"APC LoF","variant","CTNNB1","ONCOGENE",2,1
+"APC LoF","variant","CTNNB1","ONCOGENE",3,1
+"APC LoF","variant","CCND2","ONCOGENE",3,1
+"APC LoF","variant","CCND3","ONCOGENE",3,1
+"APC LoF","variant","TCF7L2","ONCOGENE",3,1
+"APC LoF","variant","CCND1","ONCOGENE",3,1
+"APC LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,-1
+"APC LoF","variant","EP300","TUMOUR SUPPRESSOR",3,-1
 "AR GoF","variant","AR","ONCOGENE",1,1
 "AR GoF","variant","AR","ONCOGENE",2,1
 "ARAF GoF","variant","ARAF","ONCOGENE",1,1
-"ARAF GoF","variant","MAP2K1","ONCOGENE",2,0
-"ARAF GoF","variant","MAPK1","ONCOGENE",3,0
+"ARAF GoF","variant","MAP2K1","ONCOGENE",2,1
+"ARAF GoF","variant","MAPK1","ONCOGENE",3,1
 "ARHGAP35 LoF","variant","ARHGAP35","TUMOUR SUPPRESSOR",1,-1
 "ARHGAP35 LoF","variant","RHOA","ONCOGENE",2,1
 "ARHGAP5 LoF","variant","ARHGAP5","TUMOUR SUPPRESSOR",1,-1
 "ARHGAP5 LoF","variant","RHOA","ONCOGENE",2,1
 "ARID1A LoF","variant","ARID1A","TUMOUR SUPPRESSOR",1,-1
-"ARID1A LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",2,0
-"ARID1A LoF","variant","BRD7","TUMOUR SUPPRESSOR",3,0
-"ARID1A LoF","variant","ARID2","TUMOUR SUPPRESSOR",3,0
-"ARID1A LoF","variant","PBRM1","TUMOUR SUPPRESSOR",3,0
-"ARID1A LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",2,0
 "ARID1B LoF","variant","ARID1B","TUMOUR SUPPRESSOR",1,-1
-"ARID1B LoF","variant","ARID2","TUMOUR SUPPRESSOR",3,0
-"ARID1B LoF","variant","PBRM1","TUMOUR SUPPRESSOR",3,0
-"ARID1B LoF","variant","BRD7","TUMOUR SUPPRESSOR",3,0
-"ARID1B LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",2,0
-"ARID1B LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",2,0
 "ARID2 LoF","variant","ARID2","TUMOUR SUPPRESSOR",1,-1
 "ATM LoF","variant","ATM","TUMOUR SUPPRESSOR",1,-1
 "ATM LoF","variant","CHEK2","TUMOUR SUPPRESSOR",2,-1
 "ATM LoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
 "ATM LoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "ATM LoF","variant","MDM2","ONCOGENE",3,-1
-"ATM LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"ATM LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "ATM LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "ATM LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "ATM LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "ATM LoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"ATM LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"ATM LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "ATM LoF","variant","BCL2","ONCOGENE",3,1
 "ATR LoF","variant","ATR","TUMOUR SUPPRESSOR",1,-1
 "ATR LoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
 "ATR LoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "ATR LoF","variant","MDM2","ONCOGENE",3,-1
-"ATR LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"ATR LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "ATR LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "ATR LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "ATR LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "ATR LoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"ATR LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"ATR LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "ATR LoF","variant","BCL2","ONCOGENE",3,1
 "ATR LoF","variant","CHEK2","TUMOUR SUPPRESSOR",2,-1
 "AXIN1 LoF","variant","AXIN1","TUMOUR SUPPRESSOR",1,-1
-"AXIN1 LoF","variant","SMO","ONCOGENE",3,0
-"AXIN1 LoF","variant","CTNNB1","ONCOGENE",3,0
-"AXIN1 LoF","variant","AXIN2","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","AXIN1","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","CTNNB1","ONCOGENE",2,0
-"AXIN1 LoF","variant","CCND2","ONCOGENE",3,0
-"AXIN1 LoF","variant","CCND3","ONCOGENE",3,0
-"AXIN1 LoF","variant","TCF7L2","ONCOGENE",3,0
-"AXIN1 LoF","variant","CCND1","ONCOGENE",3,0
-"AXIN1 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","RAC1","ONCOGENE",3,0
-"AXIN1 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"AXIN1 LoF","variant","MYC","ONCOGENE",3,0
-"AXIN1 LoF","variant","APC","TUMOUR SUPPRESSOR",2,0
+"AXIN1 LoF","variant","SMO","ONCOGENE",3,1
+"AXIN1 LoF","variant","CTNNB1","ONCOGENE",2,1
+"AXIN1 LoF","variant","CTNNB1","ONCOGENE",3,1
+"AXIN1 LoF","variant","CCND2","ONCOGENE",3,1
+"AXIN1 LoF","variant","CCND3","ONCOGENE",3,1
+"AXIN1 LoF","variant","TCF7L2","ONCOGENE",3,1
+"AXIN1 LoF","variant","CCND1","ONCOGENE",3,1
+"AXIN1 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,-1
+"AXIN1 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,-1
 "AXIN2 LoF","variant","AXIN2","TUMOUR SUPPRESSOR",1,-1
-"AXIN2 LoF","variant","CTNNB1","ONCOGENE",2,0
-"AXIN2 LoF","variant","CTNNB1","ONCOGENE",3,0
-"AXIN2 LoF","variant","CCND2","ONCOGENE",3,0
-"AXIN2 LoF","variant","CCND3","ONCOGENE",3,0
-"AXIN2 LoF","variant","TCF7L2","ONCOGENE",3,0
-"AXIN2 LoF","variant","CCND1","ONCOGENE",3,0
-"AXIN2 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","SMO","ONCOGENE",3,0
-"AXIN2 LoF","variant","AXIN2","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","AXIN1","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","APC","TUMOUR SUPPRESSOR",2,0
-"AXIN2 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"AXIN2 LoF","variant","MYC","ONCOGENE",3,0
-"AXIN2 LoF","variant","RAC1","ONCOGENE",3,0
+"AXIN2 LoF","variant","CTNNB1","ONCOGENE",2,1
+"AXIN2 LoF","variant","CTNNB1","ONCOGENE",3,1
+"AXIN2 LoF","variant","CCND2","ONCOGENE",3,1
+"AXIN2 LoF","variant","CCND3","ONCOGENE",3,1
+"AXIN2 LoF","variant","TCF7L2","ONCOGENE",3,1
+"AXIN2 LoF","variant","CCND1","ONCOGENE",3,1
+"AXIN2 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,-1
+"AXIN2 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,-1
+"AXIN2 LoF","variant","SMO","ONCOGENE",3,1
 "BCL2 GoF","variant","BCL2","ONCOGENE",1,1
 "BCL2 GoF","variant","BCL2","ONCOGENE",3,1
 "BCR GoF","variant","BCR","ONCOGENE",1,1
 "BCR GoF","variant","SOS1","ONCOGENE",3,1
-"BCR GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"BCR GoF","variant","PDGFRA","ONCOGENE",3,0
-"BCR GoF","variant","PDGFRB","ONCOGENE",3,0
-"BCR GoF","variant","FGFR1","ONCOGENE",3,0
-"BCR GoF","variant","KIT","ONCOGENE",3,0
-"BCR GoF","variant","NTRK1","ONCOGENE",3,0
-"BCR GoF","variant","ERBB2","ONCOGENE",3,0
-"BCR GoF","variant","MET","ONCOGENE",3,0
-"BCR GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"BCR GoF","variant","FGFR4","ONCOGENE",3,0
-"BCR GoF","variant","EGFR","ONCOGENE",3,0
-"BCR GoF","variant","FGFR2","ONCOGENE",3,0
-"BCR GoF","variant","FGFR3","ONCOGENE",3,0
-"BCR GoF","variant","FLT3","ONCOGENE",3,0
-"BCR GoF","variant","KDR","ONCOGENE",3,0
-"BCR GoF","variant","ERBB3","ONCOGENE",3,0
 "BCR GoF","variant","PIK3CB","ONCOGENE",3,1
 "BCR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "BCR GoF","variant","PIK3CA","ONCOGENE",3,1
@@ -236,12 +158,9 @@
 "BCR GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "BCR GoF","variant","MYC","ONCOGENE",3,1
 "BCR GoF","variant","CCND3","ONCOGENE",3,1
-"BCR GoF","variant","CCND1","ONCOGENE",3,0
+"BCR GoF","variant","CCND1","ONCOGENE",3,1
 "BCR GoF","variant","BCL2","ONCOGENE",3,1
 "BCR GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"BCR GoF","variant","STAT6","ONCOGENE",3,0
-"BCR GoF","variant","MYC","ONCOGENE",2,0
-"BCR GoF","variant","CDK4","ONCOGENE",3,0
 "BIRC3 GoF","variant","BIRC3","ONCOGENE",1,1
 "BIRC3 GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,-1
 "BIRC3 GoF","variant","PAK2","ONCOGENE",3,-1
@@ -249,12 +168,10 @@
 "BMPR1A LoF","variant","BMPR1A","TUMOUR SUPPRESSOR",1,-1
 "BMPR1A LoF","variant","ID3","TUMOUR SUPPRESSOR",3,-1
 "BMPR1A LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,-1
-"BMPR1A LoF","variant","ACVR2A","TUMOUR SUPPRESSOR",2,0
-"BMPR1A LoF","variant","BMPR2","TUMOUR SUPPRESSOR",2,0
 "BMPR2 LoF","variant","BMPR2","TUMOUR SUPPRESSOR",1,-1
 "BRAF GoF","variant","BRAF","ONCOGENE",1,1
-"BRAF GoF","variant","MAP2K1","ONCOGENE",2,0
-"BRAF GoF","variant","MAPK1","ONCOGENE",3,0
+"BRAF GoF","variant","MAP2K1","ONCOGENE",2,1
+"BRAF GoF","variant","MAPK1","ONCOGENE",3,1
 "BRCA1 LoF","variant","BRCA1","TUMOUR SUPPRESSOR",1,-1
 "BRCA2 LoF","variant","BRCA2","TUMOUR SUPPRESSOR",1,-1
 "BRD7 LoF","variant","BRD7","TUMOUR SUPPRESSOR",1,-1
@@ -266,21 +183,10 @@
 "CBL GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "CBL GoF","variant","RAC1","ONCOGENE",3,1
 "CBL GoF","variant","MTOR","ONCOGENE",3,1
-"CBL GoF","variant","AKT1","ONCOGENE",3,0
-"CBL GoF","variant","VAV1","ONCOGENE",3,0
+"CBL GoF","variant","AKT1","ONCOGENE",3,1
 "CBL GoF","variant","PIK3CB","ONCOGENE",2,1
 "CBL GoF","variant","PIK3CA","ONCOGENE",2,1
 "CCDC6 LoF","variant","CCDC6","TUMOUR SUPPRESSOR",1,-1
-"CCDC6 LoF","variant","HRAS","ONCOGENE",2,0
-"CCDC6 LoF","variant","ARAF","ONCOGENE",3,0
-"CCDC6 LoF","variant","PIK3CA","ONCOGENE",3,0
-"CCDC6 LoF","variant","RAF1","ONCOGENE",3,0
-"CCDC6 LoF","variant","BRAF","ONCOGENE",3,0
-"CCDC6 LoF","variant","RALGDS","ONCOGENE",3,0
-"CCDC6 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"CCDC6 LoF","variant","PIK3CB","ONCOGENE",3,0
-"CCDC6 LoF","variant","KRAS","ONCOGENE",2,0
-"CCDC6 LoF","variant","NRAS","ONCOGENE",2,0
 "CCND1 GoF","variant","CCND1","ONCOGENE",1,1
 "CCND1 GoF","variant","RB1","TUMOUR SUPPRESSOR",2,-1
 "CCND1 GoF","variant","MYC","ONCOGENE",3,1
@@ -292,52 +198,35 @@
 "CCND3 GoF","variant","MYC","ONCOGENE",3,1
 "CCR7 LoF","variant","CCR7","TUMOUR SUPPRESSOR",1,-1
 "CDH1 LoF","variant","CDH1","TUMOUR SUPPRESSOR",1,-1
-"CDH1 LoF","variant","CDH1","TUMOUR SUPPRESSOR",2,0
-"CDH1 LoF","variant","CTNNB1","ONCOGENE",3,0
-"CDH1 LoF","variant","CTNNB1","ONCOGENE",2,0
-"CDH1 LoF","variant","CCND2","ONCOGENE",3,0
-"CDH1 LoF","variant","CCND3","ONCOGENE",3,0
-"CDH1 LoF","variant","TCF7L2","ONCOGENE",3,0
-"CDH1 LoF","variant","CCND1","ONCOGENE",3,0
-"CDH1 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"CDH1 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"CDH1 LoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"CDH1 LoF","variant","MYC","ONCOGENE",3,0
 "CDK4 GoF","variant","CDK4","ONCOGENE",1,1
 "CDK4 GoF","variant","RB1","TUMOUR SUPPRESSOR",2,-1
 "CDK4 GoF","variant","MYC","ONCOGENE",3,1
-"CDK4 GoF","variant","CCND1","ONCOGENE",2,0
-"CDK4 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
 "CDKN1A LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",1,-1
 "CDKN1A LoF","variant","CCND3","ONCOGENE",2,1
-"CDKN1A LoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
-"CDKN1A LoF","variant","CDK4","ONCOGENE",2,0
-"CDKN1A LoF","variant","CCND1","ONCOGENE",3,0
-"CDKN1A LoF","variant","CCND1","ONCOGENE",2,0
+"CDKN1A LoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
+"CDKN1A LoF","variant","CDK4","ONCOGENE",2,1
+"CDKN1A LoF","variant","CCND1","ONCOGENE",2,1
 "CDKN1A LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
 "CDKN1A LoF","variant","CCND2","ONCOGENE",2,1
 "CDKN1B LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",1,-1
-"CDKN1B LoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
-"CDKN1B LoF","variant","CDK4","ONCOGENE",2,0
-"CDKN1B LoF","variant","CCND1","ONCOGENE",3,0
-"CDKN1B LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"CDKN1B LoF","variant","CCND3","ONCOGENE",2,0
-"CDKN1B LoF","variant","CCND2","ONCOGENE",2,0
-"CDKN1B LoF","variant","CCND1","ONCOGENE",2,0
+"CDKN1B LoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
+"CDKN1B LoF","variant","CDK4","ONCOGENE",2,1
+"CDKN1B LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
+"CDKN1B LoF","variant","CCND3","ONCOGENE",2,1
+"CDKN1B LoF","variant","CCND2","ONCOGENE",2,1
+"CDKN1B LoF","variant","CCND1","ONCOGENE",2,1
 "CDKN2A LoF","variant","CDKN2A","TUMOUR SUPPRESSOR",1,-1
-"CDKN2A LoF","variant","CDK4","ONCOGENE",2,0
-"CDKN2A LoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
-"CDKN2A LoF","variant","CCND1","ONCOGENE",3,0
-"CDKN2A LoF","variant","CCND1","ONCOGENE",2,0
-"CDKN2A LoF","variant","CCND3","ONCOGENE",2,0
-"CDKN2A LoF","variant","CCND2","ONCOGENE",2,0
-"CDKN2A LoF","variant","MDM2","ONCOGENE",2,0
-"CDKN2A LoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
+"CDKN2A LoF","variant","CDK4","ONCOGENE",2,1
+"CDKN2A LoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
+"CDKN2A LoF","variant","CCND1","ONCOGENE",2,1
+"CDKN2A LoF","variant","CCND3","ONCOGENE",2,1
+"CDKN2A LoF","variant","CCND2","ONCOGENE",2,1
+"CDKN2A LoF","variant","MDM2","ONCOGENE",2,1
+"CDKN2A LoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
 "CDKN2C LoF","variant","CDKN2C","TUMOUR SUPPRESSOR",1,-1
 "CDKN2C LoF","variant","CCND1","ONCOGENE",2,1
 "CDKN2C LoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
 "CDKN2C LoF","variant","CDK4","ONCOGENE",2,1
-"CDKN2C LoF","variant","CCND1","ONCOGENE",3,0
 "CDKN2C LoF","variant","CCND3","ONCOGENE",2,1
 "CDKN2C LoF","variant","CCND2","ONCOGENE",2,1
 "CDX2 GoF","variant","CDX2","ONCOGENE",1,1
@@ -347,16 +236,15 @@
 "CHEK2 LoF","variant","CDK4","ONCOGENE",3,1
 "CHEK2 LoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "CHEK2 LoF","variant","MDM2","ONCOGENE",3,-1
-"CHEK2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"CHEK2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "CHEK2 LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "CHEK2 LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "CHEK2 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "CHEK2 LoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"CHEK2 LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"CHEK2 LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "CHEK2 LoF","variant","BCL2","ONCOGENE",3,1
 "CLIP1 LoF","variant","CLIP1","TUMOUR SUPPRESSOR",1,-1
 "COL1A1 GoF","variant","COL1A1","ONCOGENE",1,1
-"COL1A1 GoF","variant","PRKCB","ONCOGENE",3,0
 "COL1A1 GoF","variant","SDC4","TUMOUR SUPPRESSOR",2,1
 "COL1A1 GoF","variant","PIK3CB","ONCOGENE",3,1
 "COL1A1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
@@ -380,22 +268,21 @@
 "CREBBP LoF","variant","NTRK1","ONCOGENE",3,-1
 "CREBBP LoF","variant","FLT3","ONCOGENE",3,-1
 "CREBBP LoF","variant","FGFR4","ONCOGENE",3,-1
-"CREBBP LoF","variant","CCND2","ONCOGENE",3,0
+"CREBBP LoF","variant","CCND2","ONCOGENE",3,-1
 "CREBBP LoF","variant","PIM1","TUMOUR SUPPRESSOR",3,-1
-"CREBBP LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","MYC","ONCOGENE",3,0
-"CREBBP LoF","variant","CCND3","ONCOGENE",3,0
-"CREBBP LoF","variant","CCND1","ONCOGENE",3,0
-"CREBBP LoF","variant","BCL2","ONCOGENE",3,0
+"CREBBP LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
+"CREBBP LoF","variant","MYC","ONCOGENE",3,-1
+"CREBBP LoF","variant","CCND3","ONCOGENE",3,-1
+"CREBBP LoF","variant","CCND1","ONCOGENE",3,-1
+"CREBBP LoF","variant","BCL2","ONCOGENE",3,-1
 "CREBBP LoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,-1
-"CREBBP LoF","variant","STAT6","ONCOGENE",3,0
-"CREBBP LoF","variant","TP53","TUMOUR SUPPRESSOR",2,0
-"CREBBP LoF","variant","MDM2","ONCOGENE",3,0
-"CREBBP LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","FAS","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"CREBBP LoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
+"CREBBP LoF","variant","MDM2","ONCOGENE",3,-1
+"CREBBP LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
+"CREBBP LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
+"CREBBP LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
+"CREBBP LoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
+"CREBBP LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "CREBBP LoF","variant","STAT6","ONCOGENE",2,-1
 "CREBBP LoF","variant","IL6ST","ONCOGENE",3,-1
 "CREBBP LoF","variant","IFNAR1","TUMOUR SUPPRESSOR",3,-1
@@ -404,19 +291,13 @@
 "CREBBP LoF","variant","IL7R","ONCOGENE",3,-1
 "CREBBP LoF","variant","CSF3R","ONCOGENE",3,-1
 "CREBBP LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",2,-1
-"CREBBP LoF","variant","CDK4","ONCOGENE",3,0
+"CREBBP LoF","variant","CDK4","ONCOGENE",3,1
 "CREBBP LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
 "CREBBP LoF","variant","PLCG1","ONCOGENE",3,-1
 "CREBBP LoF","variant","PIK3CB","ONCOGENE",3,-1
 "CREBBP LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "CREBBP LoF","variant","PIK3CA","ONCOGENE",3,-1
 "CREBBP LoF","variant","BCL2","ONCOGENE",2,-1
-"CREBBP LoF","variant","EPAS1","ONCOGENE",2,0
-"CREBBP LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","CTNNB1","ONCOGENE",3,0
-"CREBBP LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"CREBBP LoF","variant","TCF7L2","ONCOGENE",2,0
 "CSF3R GoF","variant","CSF3R","ONCOGENE",1,1
 "CSF3R GoF","variant","CCND2","ONCOGENE",3,1
 "CSF3R GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
@@ -426,43 +307,28 @@
 "CSF3R GoF","variant","CCND1","ONCOGENE",3,1
 "CSF3R GoF","variant","BCL2","ONCOGENE",3,1
 "CSF3R GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"CSF3R GoF","variant","STAT6","ONCOGENE",3,0
 "CTNNB1 GoF","variant","CTNNB1","ONCOGENE",1,1
 "CTNNB1 GoF","variant","CTNNB1","ONCOGENE",2,1
 "CTNNB1 GoF","variant","CCND2","ONCOGENE",3,1
 "CTNNB1 GoF","variant","CCND3","ONCOGENE",3,1
-"CTNNB1 GoF","variant","TCF7L2","ONCOGENE",3,0
+"CTNNB1 GoF","variant","TCF7L2","ONCOGENE",3,1
 "CTNNB1 GoF","variant","CCND1","ONCOGENE",3,1
 "CTNNB1 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,-1
 "CTNNB1 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,-1
-"CTNNB1 GoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
 "CTNNB1 GoF","variant","CCND2","ONCOGENE",2,1
 "CTNNB1 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
 "CTNNB1 GoF","variant","CCND3","ONCOGENE",2,1
 "CTNNB1 GoF","variant","MYC","ONCOGENE",3,1
-"CTNNB1 GoF","variant","CTNNB1","ONCOGENE",3,0
 "CTNNB1 GoF","variant","TCF7L2","ONCOGENE",2,1
 "CTNNB1 GoF","variant","CCND1","ONCOGENE",2,1
 "CTNNB1 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",2,-1
-"CTNNB1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
+"CTNNB1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
 "CTNNB1 GoF","variant","STAT6","ONCOGENE",3,1
 "CTNNB1 GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,1
 "CTNNB1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "CTNNB1 GoF","variant","BCL2","ONCOGENE",3,1
-"CTNNB1 GoF","variant","EPAS1","ONCOGENE",3,0
 "CTNNB1 GoF","variant","EP300","TUMOUR SUPPRESSOR",2,-1
-"CTNNB1 GoF","variant","SMO","ONCOGENE",3,0
-"CTNNB1 GoF","variant","AXIN1","TUMOUR SUPPRESSOR",3,0
-"CTNNB1 GoF","variant","AXIN2","TUMOUR SUPPRESSOR",3,0
-"CTNNB1 GoF","variant","CDH1","TUMOUR SUPPRESSOR",2,0
 "CUL3 LoF","variant","CUL3","TUMOUR SUPPRESSOR",1,-1
-"CUL3 LoF","variant","SPOP","ONCOGENE",2,0
-"CUL3 LoF","variant","GLI1","ONCOGENE",3,0
-"CUL3 LoF","variant","PTCH1","TUMOUR SUPPRESSOR",3,0
-"CUL3 LoF","variant","CCND1","ONCOGENE",3,0
-"CUL3 LoF","variant","CCND2","ONCOGENE",3,0
-"CUL3 LoF","variant","BCL2","ONCOGENE",3,0
-"CUL3 LoF","variant","GLI1","ONCOGENE",2,0
 "CXCR4 GoF","variant","CXCR4","ONCOGENE",1,1
 "CXCR4 GoF","variant","GNAQ","ONCOGENE",2,1
 "CXCR4 GoF","variant","PLCB4","ONCOGENE",3,1
@@ -475,107 +341,72 @@
 "DCC LoF","variant","DCC","TUMOUR SUPPRESSOR",1,-1
 "DDB2 LoF","variant","DDB2","TUMOUR SUPPRESSOR",1,-1
 "DUSP16 LoF","variant","DUSP16","TUMOUR SUPPRESSOR",1,-1
-"DUSP16 LoF","variant","MAX","ONCOGENE",3,0
-"DUSP16 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"DUSP16 LoF","variant","BCL2","ONCOGENE",3,0
+"DUSP16 LoF","variant","BCL2","ONCOGENE",3,-1
 "DUSP16 LoF","variant","MAPK1","ONCOGENE",2,1
 "DUSP16 LoF","variant","CDK4","ONCOGENE",3,1
 "DUSP16 LoF","variant","CCND1","ONCOGENE",3,1
 "DUSP16 LoF","variant","ESR1","ONCOGENE",3,1
-"DUSP16 LoF","variant","MYC","ONCOGENE",3,0
-"DUSP16 LoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,0
+"DUSP16 LoF","variant","MYC","ONCOGENE",3,1
+"DUSP16 LoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,1
 "DUSP16 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
 "DUSP16 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,1
 "DUSP16 LoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,1
 "DUSP16 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
-"DUSP16 LoF","variant","AR","ONCOGENE",3,0
 "EGFR GoF","variant","EGFR","ONCOGENE",1,1
-"EGFR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,0
-"EGFR GoF","variant","RAC1","ONCOGENE",3,0
-"EGFR GoF","variant","MTOR","ONCOGENE",3,0
-"EGFR GoF","variant","AKT1","ONCOGENE",3,0
-"EGFR GoF","variant","VAV1","ONCOGENE",3,0
-"EGFR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","STAT6","ONCOGENE",3,0
+"EGFR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
+"EGFR GoF","variant","RAC1","ONCOGENE",3,-1
+"EGFR GoF","variant","MTOR","ONCOGENE",3,1
+"EGFR GoF","variant","AKT1","ONCOGENE",3,1
+"EGFR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"EGFR GoF","variant","STAT6","ONCOGENE",3,1
 "EGFR GoF","variant","PTPN11","ONCOGENE",3,1
-"EGFR GoF","variant","PIK3CA","ONCOGENE",3,0
-"EGFR GoF","variant","PIK3CB","ONCOGENE",3,0
-"EGFR GoF","variant","BCL2","ONCOGENE",3,0
+"EGFR GoF","variant","PIK3CA","ONCOGENE",3,1
+"EGFR GoF","variant","PIK3CB","ONCOGENE",3,1
+"EGFR GoF","variant","BCL2","ONCOGENE",3,1
 "EGFR GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
 "EGFR GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"EGFR GoF","variant","CCND1","ONCOGENE",3,0
+"EGFR GoF","variant","CCND1","ONCOGENE",3,-1
 "EGFR GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "EGFR GoF","variant","CCND2","ONCOGENE",3,-1
 "EGFR GoF","variant","CCND3","ONCOGENE",3,-1
-"EGFR GoF","variant","MYC","ONCOGENE",3,0
+"EGFR GoF","variant","MYC","ONCOGENE",3,1
 "EGFR GoF","variant","JAK3","ONCOGENE",2,1
 "EGFR GoF","variant","MAP2K1","ONCOGENE",2,1
-"EGFR GoF","variant","MAPK1","ONCOGENE",3,0
+"EGFR GoF","variant","MAPK1","ONCOGENE",3,1
 "EGFR GoF","variant","HRAS","ONCOGENE",2,1
 "EGFR GoF","variant","ARAF","ONCOGENE",3,1
 "EGFR GoF","variant","RAF1","ONCOGENE",3,1
 "EGFR GoF","variant","BRAF","ONCOGENE",3,1
 "EGFR GoF","variant","RALGDS","ONCOGENE",3,1
-"EGFR GoF","variant","PIK3CB","ONCOGENE",2,0
+"EGFR GoF","variant","PIK3CB","ONCOGENE",2,1
 "EGFR GoF","variant","PLCG1","ONCOGENE",2,1
 "EGFR GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"EGFR GoF","variant","PRKCB","ONCOGENE",3,0
+"EGFR GoF","variant","PRKCB","ONCOGENE",3,1
 "EGFR GoF","variant","NRAS","ONCOGENE",2,1
 "EGFR GoF","variant","KRAS","ONCOGENE",2,1
 "EGFR GoF","variant","SOS1","ONCOGENE",3,1
-"EGFR GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","PDGFRA","ONCOGENE",3,0
-"EGFR GoF","variant","PDGFRB","ONCOGENE",3,0
-"EGFR GoF","variant","FGFR1","ONCOGENE",3,0
-"EGFR GoF","variant","KIT","ONCOGENE",3,0
-"EGFR GoF","variant","NTRK1","ONCOGENE",3,0
-"EGFR GoF","variant","ERBB2","ONCOGENE",3,0
-"EGFR GoF","variant","MET","ONCOGENE",3,0
-"EGFR GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","FGFR4","ONCOGENE",3,0
-"EGFR GoF","variant","EGFR","ONCOGENE",3,0
-"EGFR GoF","variant","FGFR2","ONCOGENE",3,0
-"EGFR GoF","variant","FGFR3","ONCOGENE",3,0
-"EGFR GoF","variant","FLT3","ONCOGENE",3,0
-"EGFR GoF","variant","KDR","ONCOGENE",3,0
-"EGFR GoF","variant","ERBB3","ONCOGENE",3,0
-"EGFR GoF","variant","PIK3CA","ONCOGENE",2,0
+"EGFR GoF","variant","PIK3CA","ONCOGENE",2,1
 "EGFR GoF","variant","RHOA","ONCOGENE",3,1
 "EGFR GoF","variant","CTNNB1","ONCOGENE",2,-1
-"EGFR GoF","variant","CTNNB1","ONCOGENE",3,0
+"EGFR GoF","variant","CTNNB1","ONCOGENE",3,-1
 "EGFR GoF","variant","TCF7L2","ONCOGENE",3,-1
 "EGFR GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,1
 "EGFR GoF","variant","EP300","TUMOUR SUPPRESSOR",3,1
-"EGFR GoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","CDK4","ONCOGENE",3,0
-"EGFR GoF","variant","ESR1","ONCOGENE",3,0
-"EGFR GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,0
-"EGFR GoF","variant","AR","ONCOGENE",3,0
-"EGFR GoF","variant","MAPK1","ONCOGENE",2,0
-"EGFR GoF","variant","ERBB2","ONCOGENE",2,0
-"EGFR GoF","variant","PLCG1","ONCOGENE",3,0
-"EGFR GoF","variant","MAP2K1","ONCOGENE",3,0
-"EGFR GoF","variant","JAK3","ONCOGENE",3,0
 "EP300 LoF","variant","EP300","TUMOUR SUPPRESSOR",1,-1
-"EP300 LoF","variant","BCL2","ONCOGENE",3,0
+"EP300 LoF","variant","BCL2","ONCOGENE",3,-1
 "EP300 LoF","variant","PIM1","TUMOUR SUPPRESSOR",3,-1
 "EP300 LoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,-1
-"EP300 LoF","variant","CCND1","ONCOGENE",3,0
-"EP300 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","CCND2","ONCOGENE",3,0
-"EP300 LoF","variant","CCND3","ONCOGENE",3,0
-"EP300 LoF","variant","MYC","ONCOGENE",3,0
-"EP300 LoF","variant","STAT6","ONCOGENE",3,0
+"EP300 LoF","variant","CCND1","ONCOGENE",3,-1
+"EP300 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
+"EP300 LoF","variant","CCND2","ONCOGENE",3,-1
+"EP300 LoF","variant","CCND3","ONCOGENE",3,-1
+"EP300 LoF","variant","MYC","ONCOGENE",3,-1
 "EP300 LoF","variant","PLCG1","ONCOGENE",3,-1
 "EP300 LoF","variant","PIK3CB","ONCOGENE",3,-1
 "EP300 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "EP300 LoF","variant","PIK3CA","ONCOGENE",3,-1
 "EP300 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
-"EP300 LoF","variant","CDK4","ONCOGENE",3,0
+"EP300 LoF","variant","CDK4","ONCOGENE",3,1
 "EP300 LoF","variant","FGFR2","ONCOGENE",3,-1
 "EP300 LoF","variant","ERBB3","ONCOGENE",3,-1
 "EP300 LoF","variant","PDGFRA","ONCOGENE",3,-1
@@ -603,19 +434,13 @@
 "EP300 LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",2,-1
 "EP300 LoF","variant","NTRK3","ONCOGENE",3,1
 "EP300 LoF","variant","RET","ONCOGENE",3,1
-"EP300 LoF","variant","TP53","TUMOUR SUPPRESSOR",2,0
-"EP300 LoF","variant","MDM2","ONCOGENE",3,0
-"EP300 LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","FAS","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","EPAS1","ONCOGENE",2,0
-"EP300 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"EP300 LoF","variant","CTNNB1","ONCOGENE",3,0
-"EP300 LoF","variant","TCF7L2","ONCOGENE",2,0
+"EP300 LoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
+"EP300 LoF","variant","MDM2","ONCOGENE",3,-1
+"EP300 LoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
+"EP300 LoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
+"EP300 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
+"EP300 LoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
+"EP300 LoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "EPAS1 GoF","variant","EPAS1","ONCOGENE",1,1
 "EPAS1 GoF","variant","EGFR","ONCOGENE",3,1
 "EPAS1 GoF","variant","MET","ONCOGENE",3,1
@@ -638,65 +463,23 @@
 "EPAS1 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,1
 "EPAS1 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,1
 "EPAS1 GoF","variant","TGFBR2","TUMOUR SUPPRESSOR",3,1
-"EPAS1 GoF","variant","EP300","TUMOUR SUPPRESSOR",2,0
-"EPAS1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"EPAS1 GoF","variant","BCL2","ONCOGENE",3,0
-"EPAS1 GoF","variant","STAT6","ONCOGENE",3,0
-"EPAS1 GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"EPAS1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"EPAS1 GoF","variant","EPAS1","ONCOGENE",3,0
-"EPAS1 GoF","variant","TCF7L2","ONCOGENE",3,0
-"EPAS1 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",2,0
 "EPHA2 LoF","variant","EPHA2","TUMOUR SUPPRESSOR",1,-1
 "EPHA2 LoF","variant","SOS1","ONCOGENE",3,-1
-"EPHA2 LoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"EPHA2 LoF","variant","PDGFRA","ONCOGENE",3,0
-"EPHA2 LoF","variant","PDGFRB","ONCOGENE",3,0
-"EPHA2 LoF","variant","FGFR1","ONCOGENE",3,0
-"EPHA2 LoF","variant","KIT","ONCOGENE",3,0
-"EPHA2 LoF","variant","NTRK1","ONCOGENE",3,0
-"EPHA2 LoF","variant","ERBB2","ONCOGENE",3,0
-"EPHA2 LoF","variant","MET","ONCOGENE",3,0
-"EPHA2 LoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"EPHA2 LoF","variant","FGFR4","ONCOGENE",3,0
-"EPHA2 LoF","variant","EGFR","ONCOGENE",3,0
-"EPHA2 LoF","variant","FGFR2","ONCOGENE",3,0
-"EPHA2 LoF","variant","FGFR3","ONCOGENE",3,0
-"EPHA2 LoF","variant","FLT3","ONCOGENE",3,0
-"EPHA2 LoF","variant","KDR","ONCOGENE",3,0
-"EPHA2 LoF","variant","ERBB3","ONCOGENE",3,0
 "EPHA2 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "EPHA2 LoF","variant","PIK3CB","ONCOGENE",3,-1
 "EPHA2 LoF","variant","PIK3CA","ONCOGENE",3,-1
 "ERBB2 GoF","variant","ERBB2","ONCOGENE",1,1
-"ERBB2 GoF","variant","PIK3CA","ONCOGENE",2,0
-"ERBB2 GoF","variant","MTOR","ONCOGENE",3,0
-"ERBB2 GoF","variant","RAC1","ONCOGENE",3,0
-"ERBB2 GoF","variant","AKT1","ONCOGENE",3,0
-"ERBB2 GoF","variant","VAV1","ONCOGENE",3,0
-"ERBB2 GoF","variant","PIK3CB","ONCOGENE",2,0
+"ERBB2 GoF","variant","PIK3CA","ONCOGENE",2,1
+"ERBB2 GoF","variant","MTOR","ONCOGENE",3,1
+"ERBB2 GoF","variant","RAC1","ONCOGENE",3,-1
+"ERBB2 GoF","variant","AKT1","ONCOGENE",3,1
+"ERBB2 GoF","variant","PIK3CB","ONCOGENE",2,1
 "ERBB2 GoF","variant","PLCG1","ONCOGENE",2,1
 "ERBB2 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"ERBB2 GoF","variant","PRKCB","ONCOGENE",3,0
+"ERBB2 GoF","variant","PRKCB","ONCOGENE",3,1
 "ERBB2 GoF","variant","SOS1","ONCOGENE",3,1
-"ERBB2 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","PDGFRA","ONCOGENE",3,0
-"ERBB2 GoF","variant","PDGFRB","ONCOGENE",3,0
-"ERBB2 GoF","variant","FGFR1","ONCOGENE",3,0
-"ERBB2 GoF","variant","KIT","ONCOGENE",3,0
-"ERBB2 GoF","variant","NTRK1","ONCOGENE",3,0
-"ERBB2 GoF","variant","ERBB2","ONCOGENE",3,0
-"ERBB2 GoF","variant","MET","ONCOGENE",3,0
-"ERBB2 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","FGFR4","ONCOGENE",3,0
-"ERBB2 GoF","variant","EGFR","ONCOGENE",3,0
-"ERBB2 GoF","variant","FGFR2","ONCOGENE",3,0
-"ERBB2 GoF","variant","FGFR3","ONCOGENE",3,0
-"ERBB2 GoF","variant","FLT3","ONCOGENE",3,0
-"ERBB2 GoF","variant","KDR","ONCOGENE",3,0
-"ERBB2 GoF","variant","ERBB3","ONCOGENE",3,0
-"ERBB2 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,0
-"ERBB2 GoF","variant","MAPK1","ONCOGENE",3,0
+"ERBB2 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
+"ERBB2 GoF","variant","MAPK1","ONCOGENE",3,1
 "ERBB2 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "ERBB2 GoF","variant","PIK3CB","ONCOGENE",3,1
 "ERBB2 GoF","variant","PIK3CA","ONCOGENE",3,1
@@ -710,72 +493,28 @@
 "ERBB2 GoF","variant","CCND2","ONCOGENE",3,-1
 "ERBB2 GoF","variant","CCND3","ONCOGENE",3,-1
 "ERBB2 GoF","variant","TCF7L2","ONCOGENE",3,-1
-"ERBB2 GoF","variant","CCND1","ONCOGENE",3,0
+"ERBB2 GoF","variant","CCND1","ONCOGENE",3,-1
 "ERBB2 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,1
 "ERBB2 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,1
-"ERBB2 GoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","MAPK1","ONCOGENE",2,0
-"ERBB2 GoF","variant","CDK4","ONCOGENE",3,0
-"ERBB2 GoF","variant","ESR1","ONCOGENE",3,0
-"ERBB2 GoF","variant","MYC","ONCOGENE",3,0
-"ERBB2 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","BCL2","ONCOGENE",3,0
-"ERBB2 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"ERBB2 GoF","variant","AR","ONCOGENE",3,0
 "ERBB3 GoF","variant","ERBB3","ONCOGENE",1,1
-"ERBB3 GoF","variant","PRKCB","ONCOGENE",3,0
+"ERBB3 GoF","variant","PRKCB","ONCOGENE",3,1
 "ERBB3 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
 "ERBB3 GoF","variant","PLCG1","ONCOGENE",2,1
 "ERBB3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "ERBB3 GoF","variant","PIK3CB","ONCOGENE",3,1
 "ERBB3 GoF","variant","PIK3CA","ONCOGENE",3,1
 "ERBB3 GoF","variant","SOS1","ONCOGENE",3,1
-"ERBB3 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"ERBB3 GoF","variant","PDGFRA","ONCOGENE",3,0
-"ERBB3 GoF","variant","PDGFRB","ONCOGENE",3,0
-"ERBB3 GoF","variant","FGFR1","ONCOGENE",3,0
-"ERBB3 GoF","variant","KIT","ONCOGENE",3,0
-"ERBB3 GoF","variant","NTRK1","ONCOGENE",3,0
-"ERBB3 GoF","variant","ERBB2","ONCOGENE",3,0
-"ERBB3 GoF","variant","MET","ONCOGENE",3,0
-"ERBB3 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"ERBB3 GoF","variant","FGFR4","ONCOGENE",3,0
-"ERBB3 GoF","variant","EGFR","ONCOGENE",3,0
-"ERBB3 GoF","variant","FGFR2","ONCOGENE",3,0
-"ERBB3 GoF","variant","FGFR3","ONCOGENE",3,0
-"ERBB3 GoF","variant","FLT3","ONCOGENE",3,0
-"ERBB3 GoF","variant","KDR","ONCOGENE",3,0
-"ERBB3 GoF","variant","ERBB3","ONCOGENE",3,0
 "ERBB4 LoF","variant","ERBB4","TUMOUR SUPPRESSOR",1,-1
 "ERBB4 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "ERBB4 LoF","variant","PIK3CB","ONCOGENE",3,-1
 "ERBB4 LoF","variant","PIK3CA","ONCOGENE",3,-1
-"ERBB4 LoF","variant","PRKCB","ONCOGENE",3,0
+"ERBB4 LoF","variant","PRKCB","ONCOGENE",3,1
 "ERBB4 LoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
 "ERBB4 LoF","variant","SOS1","ONCOGENE",3,-1
-"ERBB4 LoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"ERBB4 LoF","variant","PDGFRA","ONCOGENE",3,0
-"ERBB4 LoF","variant","PDGFRB","ONCOGENE",3,0
-"ERBB4 LoF","variant","FGFR1","ONCOGENE",3,0
-"ERBB4 LoF","variant","KIT","ONCOGENE",3,0
-"ERBB4 LoF","variant","NTRK1","ONCOGENE",3,0
-"ERBB4 LoF","variant","ERBB2","ONCOGENE",3,0
-"ERBB4 LoF","variant","MET","ONCOGENE",3,0
-"ERBB4 LoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"ERBB4 LoF","variant","FGFR4","ONCOGENE",3,0
-"ERBB4 LoF","variant","EGFR","ONCOGENE",3,0
-"ERBB4 LoF","variant","FGFR2","ONCOGENE",3,0
-"ERBB4 LoF","variant","FGFR3","ONCOGENE",3,0
-"ERBB4 LoF","variant","FLT3","ONCOGENE",3,0
-"ERBB4 LoF","variant","KDR","ONCOGENE",3,0
-"ERBB4 LoF","variant","ERBB3","ONCOGENE",3,0
 "ERBB4 LoF","variant","PLCG1","ONCOGENE",2,-1
 "ESR1 GoF","variant","ESR1","ONCOGENE",1,1
 "ESR1 GoF","variant","RARA","ONCOGENE",2,1
-"ESR1 GoF","variant","MYC","ONCOGENE",3,0
+"ESR1 GoF","variant","MYC","ONCOGENE",3,1
 "ESR1 GoF","variant","RARA","ONCOGENE",3,1
 "ESR1 GoF","variant","KRAS","ONCOGENE",3,1
 "ESR1 GoF","variant","NRAS","ONCOGENE",3,1
@@ -784,9 +523,6 @@
 "ESR1 GoF","variant","HRAS","ONCOGENE",3,1
 "ESR1 GoF","variant","CTNNB1","ONCOGENE",3,-1
 "ESR1 GoF","variant","PIK3CA","ONCOGENE",3,1
-"ESR1 GoF","variant","ARHGAP35","TUMOUR SUPPRESSOR",3,0
-"ESR1 GoF","variant","ARHGAP5","TUMOUR SUPPRESSOR",3,0
-"ESR1 GoF","variant","RAC1","ONCOGENE",3,0
 "ESR1 GoF","variant","KDR","ONCOGENE",3,1
 "ESR1 GoF","variant","FGFR1","ONCOGENE",3,1
 "ESR1 GoF","variant","FGFR3","ONCOGENE",3,1
@@ -806,24 +542,19 @@
 "ESR1 GoF","variant","BIRC3","ONCOGENE",3,-1
 "ESR1 GoF","variant","BCL2","ONCOGENE",3,-1
 "ESR1 GoF","variant","MYC","ONCOGENE",2,1
-"ESR1 GoF","variant","CCND1","ONCOGENE",3,0
-"ESR1 GoF","variant","CDK4","ONCOGENE",3,0
+"ESR1 GoF","variant","CCND1","ONCOGENE",3,1
+"ESR1 GoF","variant","CDK4","ONCOGENE",3,1
 "ESR1 GoF","variant","BCL2","ONCOGENE",2,1
 "ESR1 GoF","variant","CCND1","ONCOGENE",2,1
 "ESR1 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
-"ESR1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"ESR1 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,0
-"ESR1 GoF","variant","CCND2","ONCOGENE",3,0
-"ESR1 GoF","variant","CCND3","ONCOGENE",3,0
 "FAS LoF","variant","FAS","TUMOUR SUPPRESSOR",1,-1
 "FAS LoF","variant","DAXX","TUMOUR SUPPRESSOR",2,-1
 "FAS LoF","variant","CASP8","TUMOUR SUPPRESSOR",3,-1
 "FGFR1 GoF","variant","FGFR1","ONCOGENE",1,1
-"FGFR1 GoF","variant","AKT1","ONCOGENE",3,0
+"FGFR1 GoF","variant","AKT1","ONCOGENE",3,1
 "FGFR1 GoF","variant","RAC1","ONCOGENE",3,1
 "FGFR1 GoF","variant","MTOR","ONCOGENE",3,1
-"FGFR1 GoF","variant","VAV1","ONCOGENE",3,0
-"FGFR1 GoF","variant","PRKCB","ONCOGENE",3,0
+"FGFR1 GoF","variant","PRKCB","ONCOGENE",3,1
 "FGFR1 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
 "FGFR1 GoF","variant","HRAS","ONCOGENE",2,1
 "FGFR1 GoF","variant","ARAF","ONCOGENE",3,1
@@ -834,22 +565,6 @@
 "FGFR1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "FGFR1 GoF","variant","PIK3CB","ONCOGENE",3,1
 "FGFR1 GoF","variant","SOS1","ONCOGENE",3,1
-"FGFR1 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"FGFR1 GoF","variant","PDGFRA","ONCOGENE",3,0
-"FGFR1 GoF","variant","PDGFRB","ONCOGENE",3,0
-"FGFR1 GoF","variant","FGFR1","ONCOGENE",3,0
-"FGFR1 GoF","variant","KIT","ONCOGENE",3,0
-"FGFR1 GoF","variant","NTRK1","ONCOGENE",3,0
-"FGFR1 GoF","variant","ERBB2","ONCOGENE",3,0
-"FGFR1 GoF","variant","MET","ONCOGENE",3,0
-"FGFR1 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"FGFR1 GoF","variant","FGFR4","ONCOGENE",3,0
-"FGFR1 GoF","variant","EGFR","ONCOGENE",3,0
-"FGFR1 GoF","variant","FGFR2","ONCOGENE",3,0
-"FGFR1 GoF","variant","FGFR3","ONCOGENE",3,0
-"FGFR1 GoF","variant","FLT3","ONCOGENE",3,0
-"FGFR1 GoF","variant","KDR","ONCOGENE",3,0
-"FGFR1 GoF","variant","ERBB3","ONCOGENE",3,0
 "FGFR1 GoF","variant","PIK3CB","ONCOGENE",2,1
 "FGFR1 GoF","variant","KRAS","ONCOGENE",2,1
 "FGFR1 GoF","variant","PIK3CA","ONCOGENE",2,1
@@ -859,11 +574,10 @@
 "FGFR2 GoF","variant","FGFR2","ONCOGENE",1,1
 "FGFR2 GoF","variant","PLCG1","ONCOGENE",2,1
 "FGFR2 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"FGFR2 GoF","variant","PRKCB","ONCOGENE",3,0
-"FGFR2 GoF","variant","AKT1","ONCOGENE",3,0
+"FGFR2 GoF","variant","PRKCB","ONCOGENE",3,1
+"FGFR2 GoF","variant","AKT1","ONCOGENE",3,1
 "FGFR2 GoF","variant","MTOR","ONCOGENE",3,1
 "FGFR2 GoF","variant","RAC1","ONCOGENE",3,1
-"FGFR2 GoF","variant","VAV1","ONCOGENE",3,0
 "FGFR2 GoF","variant","PTPN11","ONCOGENE",3,1
 "FGFR2 GoF","variant","PIK3CA","ONCOGENE",3,1
 "FGFR2 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
@@ -871,122 +585,46 @@
 "FGFR2 GoF","variant","PIK3CB","ONCOGENE",2,1
 "FGFR2 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "FGFR2 GoF","variant","SOS1","ONCOGENE",3,1
-"FGFR2 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"FGFR2 GoF","variant","PDGFRA","ONCOGENE",3,0
-"FGFR2 GoF","variant","PDGFRB","ONCOGENE",3,0
-"FGFR2 GoF","variant","FGFR1","ONCOGENE",3,0
-"FGFR2 GoF","variant","KIT","ONCOGENE",3,0
-"FGFR2 GoF","variant","NTRK1","ONCOGENE",3,0
-"FGFR2 GoF","variant","ERBB2","ONCOGENE",3,0
-"FGFR2 GoF","variant","MET","ONCOGENE",3,0
-"FGFR2 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"FGFR2 GoF","variant","FGFR4","ONCOGENE",3,0
-"FGFR2 GoF","variant","EGFR","ONCOGENE",3,0
-"FGFR2 GoF","variant","FGFR2","ONCOGENE",3,0
-"FGFR2 GoF","variant","FGFR3","ONCOGENE",3,0
-"FGFR2 GoF","variant","FLT3","ONCOGENE",3,0
-"FGFR2 GoF","variant","KDR","ONCOGENE",3,0
-"FGFR2 GoF","variant","ERBB3","ONCOGENE",3,0
 "FGFR2 GoF","variant","PIK3CA","ONCOGENE",2,1
 "FGFR3 GoF","variant","FGFR3","ONCOGENE",1,1
 "FGFR3 GoF","variant","PLCG1","ONCOGENE",2,1
 "FGFR3 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"FGFR3 GoF","variant","PRKCB","ONCOGENE",3,0
-"FGFR3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"FGFR3 GoF","variant","PIK3CB","ONCOGENE",3,0
-"FGFR3 GoF","variant","PIK3CA","ONCOGENE",3,0
+"FGFR3 GoF","variant","PRKCB","ONCOGENE",3,1
+"FGFR3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"FGFR3 GoF","variant","PIK3CB","ONCOGENE",3,1
+"FGFR3 GoF","variant","PIK3CA","ONCOGENE",3,1
 "FGFR3 GoF","variant","SOS1","ONCOGENE",3,1
-"FGFR3 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"FGFR3 GoF","variant","PDGFRA","ONCOGENE",3,0
-"FGFR3 GoF","variant","PDGFRB","ONCOGENE",3,0
-"FGFR3 GoF","variant","FGFR1","ONCOGENE",3,0
-"FGFR3 GoF","variant","KIT","ONCOGENE",3,0
-"FGFR3 GoF","variant","NTRK1","ONCOGENE",3,0
-"FGFR3 GoF","variant","ERBB2","ONCOGENE",3,0
-"FGFR3 GoF","variant","MET","ONCOGENE",3,0
-"FGFR3 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"FGFR3 GoF","variant","FGFR4","ONCOGENE",3,0
-"FGFR3 GoF","variant","EGFR","ONCOGENE",3,0
-"FGFR3 GoF","variant","FGFR2","ONCOGENE",3,0
-"FGFR3 GoF","variant","FGFR3","ONCOGENE",3,0
-"FGFR3 GoF","variant","FLT3","ONCOGENE",3,0
-"FGFR3 GoF","variant","KDR","ONCOGENE",3,0
-"FGFR3 GoF","variant","ERBB3","ONCOGENE",3,0
-"FGFR3 GoF","variant","HRAS","ONCOGENE",2,0
-"FGFR3 GoF","variant","ARAF","ONCOGENE",3,0
-"FGFR3 GoF","variant","RAF1","ONCOGENE",3,0
-"FGFR3 GoF","variant","BRAF","ONCOGENE",3,0
-"FGFR3 GoF","variant","RALGDS","ONCOGENE",3,0
-"FGFR3 GoF","variant","NRAS","ONCOGENE",2,0
-"FGFR3 GoF","variant","KRAS","ONCOGENE",2,0
 "FGFR4 GoF","variant","FGFR4","ONCOGENE",1,1
 "FGFR4 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "FGFR4 GoF","variant","PIK3CB","ONCOGENE",3,1
 "FGFR4 GoF","variant","PIK3CA","ONCOGENE",3,1
 "FGFR4 GoF","variant","PLCG1","ONCOGENE",2,1
 "FGFR4 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"FGFR4 GoF","variant","PRKCB","ONCOGENE",3,0
+"FGFR4 GoF","variant","PRKCB","ONCOGENE",3,1
 "FGFR4 GoF","variant","SOS1","ONCOGENE",3,1
-"FGFR4 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"FGFR4 GoF","variant","PDGFRA","ONCOGENE",3,0
-"FGFR4 GoF","variant","PDGFRB","ONCOGENE",3,0
-"FGFR4 GoF","variant","FGFR1","ONCOGENE",3,0
-"FGFR4 GoF","variant","KIT","ONCOGENE",3,0
-"FGFR4 GoF","variant","NTRK1","ONCOGENE",3,0
-"FGFR4 GoF","variant","ERBB2","ONCOGENE",3,0
-"FGFR4 GoF","variant","MET","ONCOGENE",3,0
-"FGFR4 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"FGFR4 GoF","variant","FGFR4","ONCOGENE",3,0
-"FGFR4 GoF","variant","EGFR","ONCOGENE",3,0
-"FGFR4 GoF","variant","FGFR2","ONCOGENE",3,0
-"FGFR4 GoF","variant","FGFR3","ONCOGENE",3,0
-"FGFR4 GoF","variant","FLT3","ONCOGENE",3,0
-"FGFR4 GoF","variant","KDR","ONCOGENE",3,0
-"FGFR4 GoF","variant","ERBB3","ONCOGENE",3,0
 "FLCN LoF","variant","FLCN","TUMOUR SUPPRESSOR",1,-1
 "FLCN LoF","variant","MTOR","ONCOGENE",3,1
-"FLCN LoF","variant","RRAGC","ONCOGENE",3,0
 "FLCN LoF","variant","RRAGC","ONCOGENE",2,-1
 "FLT3 GoF","variant","FLT3","ONCOGENE",1,1
 "FLT3 GoF","variant","PIK3CA","ONCOGENE",2,1
 "FLT3 GoF","variant","MTOR","ONCOGENE",3,1
 "FLT3 GoF","variant","RAC1","ONCOGENE",3,1
-"FLT3 GoF","variant","AKT1","ONCOGENE",3,0
-"FLT3 GoF","variant","VAV1","ONCOGENE",3,0
+"FLT3 GoF","variant","AKT1","ONCOGENE",3,1
 "FLT3 GoF","variant","CCND2","ONCOGENE",3,1
 "FLT3 GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
 "FLT3 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
-"FLT3 GoF","variant","MYC","ONCOGENE",3,0
+"FLT3 GoF","variant","MYC","ONCOGENE",3,1
 "FLT3 GoF","variant","CCND3","ONCOGENE",3,1
 "FLT3 GoF","variant","CCND1","ONCOGENE",3,1
 "FLT3 GoF","variant","BCL2","ONCOGENE",3,1
 "FLT3 GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"FLT3 GoF","variant","STAT6","ONCOGENE",3,0
 "FLT3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "FLT3 GoF","variant","SOS1","ONCOGENE",3,1
-"FLT3 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"FLT3 GoF","variant","PDGFRA","ONCOGENE",3,0
-"FLT3 GoF","variant","PDGFRB","ONCOGENE",3,0
-"FLT3 GoF","variant","FGFR1","ONCOGENE",3,0
-"FLT3 GoF","variant","KIT","ONCOGENE",3,0
-"FLT3 GoF","variant","NTRK1","ONCOGENE",3,0
-"FLT3 GoF","variant","ERBB2","ONCOGENE",3,0
-"FLT3 GoF","variant","MET","ONCOGENE",3,0
-"FLT3 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"FLT3 GoF","variant","FGFR4","ONCOGENE",3,0
-"FLT3 GoF","variant","EGFR","ONCOGENE",3,0
-"FLT3 GoF","variant","FGFR2","ONCOGENE",3,0
-"FLT3 GoF","variant","FGFR3","ONCOGENE",3,0
-"FLT3 GoF","variant","FLT3","ONCOGENE",3,0
-"FLT3 GoF","variant","KDR","ONCOGENE",3,0
-"FLT3 GoF","variant","ERBB3","ONCOGENE",3,0
 "FLT3 GoF","variant","PIK3CB","ONCOGENE",2,1
 "FLT3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "FLT3 GoF","variant","PIK3CB","ONCOGENE",3,1
 "FLT3 GoF","variant","PIK3CA","ONCOGENE",3,1
-"FLT3 GoF","variant","CSF3R","ONCOGENE",3,0
 "FN1 LoF","variant","FN1","TUMOUR SUPPRESSOR",1,-1
-"FN1 LoF","variant","PRKCB","ONCOGENE",3,0
 "FN1 LoF","variant","PIK3CB","ONCOGENE",3,-1
 "FN1 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "FN1 LoF","variant","PIK3CA","ONCOGENE",3,-1
@@ -998,7 +636,7 @@
 "GLI1 GoF","variant","BCL2","ONCOGENE",3,1
 "GLI1 GoF","variant","CCND2","ONCOGENE",3,1
 "GLI1 GoF","variant","PTCH1","TUMOUR SUPPRESSOR",3,1
-"GLI1 GoF","variant","GLI1","ONCOGENE",3,0
+"GLI1 GoF","variant","GLI1","ONCOGENE",3,1
 "GLI1 GoF","variant","CCND1","ONCOGENE",2,-1
 "GLI1 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
 "GLI1 GoF","variant","SMO","ONCOGENE",3,1
@@ -1010,11 +648,7 @@
 "GLI1 GoF","variant","PTCH1","TUMOUR SUPPRESSOR",2,-1
 "GNA11 GoF","variant","GNA11","ONCOGENE",1,1
 "GNA11 GoF","variant","PLCB4","ONCOGENE",2,1
-"GNA11 GoF","variant","PRKCB","ONCOGENE",3,0
-"GNA11 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,0
 "GNAQ GoF","variant","GNAQ","ONCOGENE",1,1
-"GNAQ GoF","variant","PRKCB","ONCOGENE",3,0
-"GNAQ GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,0
 "GNAQ GoF","variant","PLCB4","ONCOGENE",2,1
 "GNAS GoF","variant","GNAS","ONCOGENE",1,1
 "GNAS GoF","variant","KRAS","ONCOGENE",3,1
@@ -1024,26 +658,22 @@
 "GNAS GoF","variant","HRAS","ONCOGENE",3,1
 "GNAS GoF","variant","CTNNB1","ONCOGENE",3,-1
 "GNAS GoF","variant","PIK3CA","ONCOGENE",3,1
-"GNAS GoF","variant","ARHGAP35","TUMOUR SUPPRESSOR",3,0
-"GNAS GoF","variant","ARHGAP5","TUMOUR SUPPRESSOR",3,0
-"GNAS GoF","variant","RAC1","ONCOGENE",3,0
 "GRIN2A GoF","variant","GRIN2A","ONCOGENE",1,1
 "HGF GoF","variant","HGF","ONCOGENE",1,1
 "HGF GoF","variant","ERBB4","TUMOUR SUPPRESSOR",2,1
 "HGF GoF","variant","PLCG1","ONCOGENE",3,1
 "HGF GoF","variant","RET","ONCOGENE",2,1
-"HGF GoF","variant","NRAS","ONCOGENE",3,0
-"HGF GoF","variant","KRAS","ONCOGENE",3,0
-"HGF GoF","variant","HRAS","ONCOGENE",3,0
 "HGF GoF","variant","MET","ONCOGENE",2,1
-"HGF GoF","variant","PIK3CA","ONCOGENE",3,0
-"HGF GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"HGF GoF","variant","PIK3CB","ONCOGENE",3,0
+"HGF GoF","variant","PIK3CA","ONCOGENE",3,1
+"HGF GoF","variant","HRAS","ONCOGENE",3,1
+"HGF GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"HGF GoF","variant","PIK3CB","ONCOGENE",3,1
+"HGF GoF","variant","KRAS","ONCOGENE",3,1
+"HGF GoF","variant","NRAS","ONCOGENE",3,1
 "HGF GoF","variant","CTNNB1","ONCOGENE",3,1
 "HGF GoF","variant","ERBB2","ONCOGENE",2,1
 "HGF GoF","variant","MAP2K1","ONCOGENE",3,1
 "HGF GoF","variant","JAK3","ONCOGENE",3,1
-"HGF GoF","variant","MAPK1","ONCOGENE",3,0
 "HGF GoF","variant","ERBB3","ONCOGENE",2,1
 "HGF GoF","variant","PDGFRB","ONCOGENE",2,1
 "HGF GoF","variant","FGFR3","ONCOGENE",2,1
@@ -1057,21 +687,15 @@
 "HGF GoF","variant","FGFR4","ONCOGENE",2,1
 "HGF GoF","variant","PDGFRA","ONCOGENE",2,1
 "HGF GoF","variant","EGFR","ONCOGENE",2,1
-"HGF GoF","variant","ERBB2","ONCOGENE",3,0
 "HGF GoF","variant","FGFR1","ONCOGENE",2,1
 "HRAS GoF","variant","HRAS","ONCOGENE",1,1
 "HRAS GoF","variant","ARAF","ONCOGENE",2,1
-"HRAS GoF","variant","MAP2K1","ONCOGENE",3,0
+"HRAS GoF","variant","MAP2K1","ONCOGENE",3,1
 "HRAS GoF","variant","PIK3CA","ONCOGENE",2,1
 "HRAS GoF","variant","MTOR","ONCOGENE",3,1
 "HRAS GoF","variant","RAC1","ONCOGENE",3,1
-"HRAS GoF","variant","AKT1","ONCOGENE",3,0
-"HRAS GoF","variant","VAV1","ONCOGENE",3,0
+"HRAS GoF","variant","AKT1","ONCOGENE",3,1
 "HRAS GoF","variant","RAF1","ONCOGENE",2,1
-"HRAS GoF","variant","HRAS","ONCOGENE",3,0
-"HRAS GoF","variant","CCND1","ONCOGENE",3,0
-"HRAS GoF","variant","KRAS","ONCOGENE",3,0
-"HRAS GoF","variant","NRAS","ONCOGENE",3,0
 "HRAS GoF","variant","BRAF","ONCOGENE",2,1
 "HRAS GoF","variant","RALGDS","ONCOGENE",2,1
 "HRAS GoF","variant","RHOA","ONCOGENE",3,1
@@ -1089,7 +713,6 @@
 "HSP90AA1 GoF","variant","FOXO1","ONCOGENE",3,-1
 "HSP90AA1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "HSP90AA1 GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
-"HSP90AA1 GoF","variant","RELA","ONCOGENE",3,0
 "HSP90AA1 GoF","variant","AR","ONCOGENE",2,1
 "HSP90AA1 GoF","variant","AR","ONCOGENE",3,1
 "HSP90AB1 GoF","variant","HSP90AB1","ONCOGENE",1,1
@@ -1103,7 +726,6 @@
 "HSP90AB1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,-1
 "HSP90AB1 GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,-1
 "HSP90AB1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
-"HSP90AB1 GoF","variant","RELA","ONCOGENE",3,0
 "HSP90AB1 GoF","variant","AR","ONCOGENE",2,1
 "HSP90AB1 GoF","variant","AR","ONCOGENE",3,1
 "HSP90AB1 GoF","variant","AKT1","ONCOGENE",2,1
@@ -1112,7 +734,7 @@
 "ID3 LoF","variant","ID3","TUMOUR SUPPRESSOR",1,-1
 "IFNAR1 LoF","variant","IFNAR1","TUMOUR SUPPRESSOR",1,-1
 "IFNAR1 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
-"IFNAR1 LoF","variant","STAT6","ONCOGENE",3,0
+"IFNAR1 LoF","variant","STAT6","ONCOGENE",3,-1
 "IFNAR1 LoF","variant","PIK3CA","ONCOGENE",3,-1
 "IFNAR1 LoF","variant","PIK3CB","ONCOGENE",3,-1
 "IFNAR1 LoF","variant","PTPN11","ONCOGENE",3,-1
@@ -1128,7 +750,7 @@
 "IFNGR1 LoF","variant","IFNGR1","TUMOUR SUPPRESSOR",1,-1
 "IFNGR1 LoF","variant","JAK3","ONCOGENE",2,-1
 "IFNGR1 LoF","variant","PIK3CA","ONCOGENE",3,-1
-"IFNGR1 LoF","variant","STAT6","ONCOGENE",3,0
+"IFNGR1 LoF","variant","STAT6","ONCOGENE",3,-1
 "IFNGR1 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,-1
 "IFNGR1 LoF","variant","PTPN11","ONCOGENE",3,-1
 "IFNGR1 LoF","variant","PIK3CB","ONCOGENE",3,-1
@@ -1144,11 +766,10 @@
 "IFNGR1 LoF","variant","TRAF3","TUMOUR SUPPRESSOR",3,1
 "IFNGR1 LoF","variant","PTPN13","TUMOUR SUPPRESSOR",3,1
 "IFNGR1 LoF","variant","BIRC3","ONCOGENE",3,1
-"IFNGR1 LoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,0
 "IL6ST GoF","variant","IL6ST","ONCOGENE",1,1
 "IL6ST GoF","variant","JAK3","ONCOGENE",2,1
 "IL6ST GoF","variant","PIK3CA","ONCOGENE",3,1
-"IL6ST GoF","variant","STAT6","ONCOGENE",3,0
+"IL6ST GoF","variant","STAT6","ONCOGENE",3,1
 "IL6ST GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "IL6ST GoF","variant","PTPN11","ONCOGENE",3,1
 "IL6ST GoF","variant","PIK3CB","ONCOGENE",3,1
@@ -1170,9 +791,9 @@
 "IL7R GoF","variant","MYC","ONCOGENE",3,1
 "IL7R GoF","variant","CCND2","ONCOGENE",3,1
 "IL7R GoF","variant","CCND1","ONCOGENE",3,1
-"IL7R GoF","variant","STAT6","ONCOGENE",3,0
 "IL7R GoF","variant","JAK3","ONCOGENE",2,1
 "IL7R GoF","variant","PIK3CA","ONCOGENE",3,1
+"IL7R GoF","variant","STAT6","ONCOGENE",3,1
 "IL7R GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "IL7R GoF","variant","PTPN11","ONCOGENE",3,1
 "IL7R GoF","variant","PIK3CB","ONCOGENE",3,1
@@ -1187,26 +808,22 @@
 "JAK3 GoF","variant","CCND2","ONCOGENE",3,1
 "JAK3 GoF","variant","CCND3","ONCOGENE",3,1
 "JAK3 GoF","variant","MYC","ONCOGENE",3,1
-"JAK3 GoF","variant","STAT6","ONCOGENE",3,0
 "JAK3 GoF","variant","RAC1","ONCOGENE",3,1
-"JAK3 GoF","variant","AKT1","ONCOGENE",3,0
+"JAK3 GoF","variant","AKT1","ONCOGENE",3,1
 "JAK3 GoF","variant","MTOR","ONCOGENE",3,1
-"JAK3 GoF","variant","VAV1","ONCOGENE",3,0
 "JAK3 GoF","variant","PIK3CA","ONCOGENE",2,1
 "JAK3 GoF","variant","STAT6","ONCOGENE",2,1
 "JAK3 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "JAK3 GoF","variant","PTPN11","ONCOGENE",2,1
 "JAK3 GoF","variant","SOS1","ONCOGENE",3,1
-"JAK3 GoF","variant","MAPK1","ONCOGENE",3,0
 "JAK3 GoF","variant","PIK3CB","ONCOGENE",2,1
 "KDR GoF","variant","KDR","ONCOGENE",1,1
-"KDR GoF","variant","RAC1","ONCOGENE",3,0
-"KDR GoF","variant","AKT1","ONCOGENE",3,0
+"KDR GoF","variant","RAC1","ONCOGENE",3,1
+"KDR GoF","variant","AKT1","ONCOGENE",3,1
 "KDR GoF","variant","MTOR","ONCOGENE",3,1
-"KDR GoF","variant","VAV1","ONCOGENE",3,0
 "KDR GoF","variant","PLCG1","ONCOGENE",2,1
 "KDR GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"KDR GoF","variant","PRKCB","ONCOGENE",3,0
+"KDR GoF","variant","PRKCB","ONCOGENE",3,1
 "KDR GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "KDR GoF","variant","PIK3CB","ONCOGENE",3,1
 "KDR GoF","variant","PIK3CA","ONCOGENE",3,1
@@ -1215,26 +832,8 @@
 "KDR GoF","variant","NRAS","ONCOGENE",3,1
 "KDR GoF","variant","HRAS","ONCOGENE",3,1
 "KDR GoF","variant","CTNNB1","ONCOGENE",3,-1
-"KDR GoF","variant","ARHGAP35","TUMOUR SUPPRESSOR",3,0
-"KDR GoF","variant","ARHGAP5","TUMOUR SUPPRESSOR",3,0
 "KDR GoF","variant","PIK3CA","ONCOGENE",2,1
 "KDR GoF","variant","SOS1","ONCOGENE",3,1
-"KDR GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"KDR GoF","variant","PDGFRA","ONCOGENE",3,0
-"KDR GoF","variant","PDGFRB","ONCOGENE",3,0
-"KDR GoF","variant","FGFR1","ONCOGENE",3,0
-"KDR GoF","variant","KIT","ONCOGENE",3,0
-"KDR GoF","variant","NTRK1","ONCOGENE",3,0
-"KDR GoF","variant","ERBB2","ONCOGENE",3,0
-"KDR GoF","variant","MET","ONCOGENE",3,0
-"KDR GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"KDR GoF","variant","FGFR4","ONCOGENE",3,0
-"KDR GoF","variant","EGFR","ONCOGENE",3,0
-"KDR GoF","variant","FGFR2","ONCOGENE",3,0
-"KDR GoF","variant","FGFR3","ONCOGENE",3,0
-"KDR GoF","variant","FLT3","ONCOGENE",3,0
-"KDR GoF","variant","KDR","ONCOGENE",3,0
-"KDR GoF","variant","ERBB3","ONCOGENE",3,0
 "KDR GoF","variant","PIK3CB","ONCOGENE",2,1
 "KDR GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,1
 "KDR GoF","variant","PAK2","ONCOGENE",3,1
@@ -1244,9 +843,8 @@
 "KIF5B GoF","variant","KIF5B","ONCOGENE",1,1
 "KIT GoF","variant","KIT","ONCOGENE",1,1
 "KIT GoF","variant","RAC1","ONCOGENE",3,1
-"KIT GoF","variant","AKT1","ONCOGENE",3,0
+"KIT GoF","variant","AKT1","ONCOGENE",3,1
 "KIT GoF","variant","MTOR","ONCOGENE",3,1
-"KIT GoF","variant","VAV1","ONCOGENE",3,0
 "KIT GoF","variant","PIK3CB","ONCOGENE",2,1
 "KIT GoF","variant","CCND2","ONCOGENE",3,1
 "KIT GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
@@ -1256,47 +854,25 @@
 "KIT GoF","variant","CCND3","ONCOGENE",3,1
 "KIT GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "KIT GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
-"KIT GoF","variant","STAT6","ONCOGENE",3,0
 "KIT GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "KIT GoF","variant","PIK3CB","ONCOGENE",3,1
 "KIT GoF","variant","PIK3CA","ONCOGENE",3,1
 "KIT GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "KIT GoF","variant","PIK3CA","ONCOGENE",2,1
 "KIT GoF","variant","SOS1","ONCOGENE",3,1
-"KIT GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"KIT GoF","variant","PDGFRA","ONCOGENE",3,0
-"KIT GoF","variant","PDGFRB","ONCOGENE",3,0
-"KIT GoF","variant","FGFR1","ONCOGENE",3,0
-"KIT GoF","variant","KIT","ONCOGENE",3,0
-"KIT GoF","variant","NTRK1","ONCOGENE",3,0
-"KIT GoF","variant","ERBB2","ONCOGENE",3,0
-"KIT GoF","variant","MET","ONCOGENE",3,0
-"KIT GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"KIT GoF","variant","FGFR4","ONCOGENE",3,0
-"KIT GoF","variant","EGFR","ONCOGENE",3,0
-"KIT GoF","variant","FGFR2","ONCOGENE",3,0
-"KIT GoF","variant","FGFR3","ONCOGENE",3,0
-"KIT GoF","variant","FLT3","ONCOGENE",3,0
-"KIT GoF","variant","KDR","ONCOGENE",3,0
-"KIT GoF","variant","ERBB3","ONCOGENE",3,0
 "KRAS GoF","variant","KRAS","ONCOGENE",1,1
 "KRAS GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "KRAS GoF","variant","RAC1","ONCOGENE",3,1
 "KRAS GoF","variant","MTOR","ONCOGENE",3,1
-"KRAS GoF","variant","AKT1","ONCOGENE",3,0
-"KRAS GoF","variant","VAV1","ONCOGENE",3,0
+"KRAS GoF","variant","AKT1","ONCOGENE",3,1
 "KRAS GoF","variant","BRAF","ONCOGENE",2,1
-"KRAS GoF","variant","MAP2K1","ONCOGENE",3,0
+"KRAS GoF","variant","MAP2K1","ONCOGENE",3,1
 "KRAS GoF","variant","PIK3CB","ONCOGENE",2,1
 "KRAS GoF","variant","ARAF","ONCOGENE",2,1
 "KRAS GoF","variant","RAF1","ONCOGENE",2,1
 "KRAS GoF","variant","RALGDS","ONCOGENE",2,1
 "KRAS GoF","variant","RHOA","ONCOGENE",3,1
 "KRAS GoF","variant","PIK3CA","ONCOGENE",2,1
-"KRAS GoF","variant","HRAS","ONCOGENE",3,0
-"KRAS GoF","variant","CCND1","ONCOGENE",3,0
-"KRAS GoF","variant","KRAS","ONCOGENE",3,0
-"KRAS GoF","variant","NRAS","ONCOGENE",3,0
 "LIFR GoF","variant","LIFR","ONCOGENE",1,1
 "LIFR GoF","variant","STAT6","ONCOGENE",2,1
 "LIFR GoF","variant","BCL2","ONCOGENE",3,1
@@ -1307,103 +883,77 @@
 "LIFR GoF","variant","CCND3","ONCOGENE",3,1
 "LIFR GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,1
 "LIFR GoF","variant","CCND2","ONCOGENE",3,1
-"LIFR GoF","variant","STAT6","ONCOGENE",3,0
 "LPAR4 LoF","variant","LPAR4","TUMOUR SUPPRESSOR",1,-1
 "LTB GoF","variant","LTB","ONCOGENE",1,1
 "MAML2 LoF","variant","MAML2","TUMOUR SUPPRESSOR",1,-1
 "MAP2K1 GoF","variant","MAP2K1","ONCOGENE",1,1
-"MAP2K1 GoF","variant","BCL2","ONCOGENE",3,0
-"MAP2K1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","MAPK1","ONCOGENE",2,0
-"MAP2K1 GoF","variant","CDK4","ONCOGENE",3,0
-"MAP2K1 GoF","variant","CCND1","ONCOGENE",3,0
-"MAP2K1 GoF","variant","ESR1","ONCOGENE",3,0
-"MAP2K1 GoF","variant","MYC","ONCOGENE",3,0
-"MAP2K1 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"MAP2K1 GoF","variant","AR","ONCOGENE",3,0
+"MAP2K1 GoF","variant","BCL2","ONCOGENE",3,-1
+"MAP2K1 GoF","variant","MAPK1","ONCOGENE",2,1
+"MAP2K1 GoF","variant","CDK4","ONCOGENE",3,1
+"MAP2K1 GoF","variant","CCND1","ONCOGENE",3,1
+"MAP2K1 GoF","variant","ESR1","ONCOGENE",3,1
+"MAP2K1 GoF","variant","MYC","ONCOGENE",3,1
+"MAP2K1 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,1
+"MAP2K1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
+"MAP2K1 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,1
+"MAP2K1 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,1
+"MAP2K1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
 "MAP2K4 LoF","variant","MAP2K4","TUMOUR SUPPRESSOR",1,-1
-"MAP2K4 LoF","variant","PIK3CB","ONCOGENE",3,0
-"MAP2K4 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"MAP2K4 LoF","variant","PIK3CA","ONCOGENE",3,0
-"MAP2K4 LoF","variant","BCL2","ONCOGENE",3,0
-"MAP2K4 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"MAP2K4 LoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,0
-"MAP2K4 LoF","variant","GLI1","ONCOGENE",3,0
 "MAP2K7 LoF","variant","MAP2K7","TUMOUR SUPPRESSOR",1,-1
-"MAP2K7 LoF","variant","BCL2","ONCOGENE",3,0
-"MAP2K7 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"MAP2K7 LoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,0
 "MAP3K1 LoF","variant","MAP3K1","TUMOUR SUPPRESSOR",1,-1
-"MAP3K1 LoF","variant","MAP2K1","ONCOGENE",2,0
-"MAP3K1 LoF","variant","MAPK1","ONCOGENE",3,0
-"MAP3K1 LoF","variant","MAP2K4","TUMOUR SUPPRESSOR",2,0
-"MAP3K1 LoF","variant","MTOR","ONCOGENE",3,0
-"MAP3K1 LoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,0
-"MAP3K1 LoF","variant","RELA","ONCOGENE",3,0
-"MAP3K1 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"MAP3K1 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
 "MAPK1 GoF","variant","MAPK1","ONCOGENE",1,1
-"MAPK1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"MAPK1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"MAPK1 GoF","variant","CDK4","ONCOGENE",3,0
-"MAPK1 GoF","variant","CCND1","ONCOGENE",3,0
-"MAPK1 GoF","variant","BIRC3","ONCOGENE",3,0
-"MAPK1 GoF","variant","CCND3","ONCOGENE",3,0
-"MAPK1 GoF","variant","CCND2","ONCOGENE",3,0
+"MAPK1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
+"MAPK1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
+"MAPK1 GoF","variant","CDK4","ONCOGENE",3,1
+"MAPK1 GoF","variant","CCND1","ONCOGENE",3,1
+"MAPK1 GoF","variant","BIRC3","ONCOGENE",3,1
+"MAPK1 GoF","variant","CCND3","ONCOGENE",3,1
+"MAPK1 GoF","variant","CCND2","ONCOGENE",3,1
 "MAPK1 GoF","variant","BCL2","ONCOGENE",3,1
 "MAPK1 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,1
 "MAPK1 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,1
-"MAPK1 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,0
-"MAPK1 GoF","variant","MYC","ONCOGENE",3,0
-"MAPK1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
+"MAPK1 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,1
+"MAPK1 GoF","variant","MYC","ONCOGENE",3,1
+"MAPK1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
 "MAPK1 GoF","variant","CDK4","ONCOGENE",2,1
 "MAPK1 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
 "MAPK1 GoF","variant","RARA","ONCOGENE",3,1
 "MAPK1 GoF","variant","CCND1","ONCOGENE",2,1
 "MAPK1 GoF","variant","ESR1","ONCOGENE",2,1
-"MAPK1 GoF","variant","MYC","ONCOGENE",2,0
-"MAPK1 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",2,0
-"MAPK1 GoF","variant","BCL2","ONCOGENE",2,0
+"MAPK1 GoF","variant","MYC","ONCOGENE",2,1
+"MAPK1 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",2,1
+"MAPK1 GoF","variant","BCL2","ONCOGENE",2,1
 "MAPK1 GoF","variant","TSC2","TUMOUR SUPPRESSOR",2,-1
 "MAPK1 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",2,-1
 "MAPK1 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
-"MAPK1 GoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,0
+"MAPK1 GoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,-1
 "MAPK1 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",2,-1
 "MAPK1 GoF","variant","ID3","TUMOUR SUPPRESSOR",3,-1
 "MAPK1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",2,-1
-"MAPK1 GoF","variant","RRAGC","ONCOGENE",3,0
-"MAPK1 GoF","variant","MAP2K1","ONCOGENE",3,0
-"MAPK1 GoF","variant","AR","ONCOGENE",2,0
-"MAPK1 GoF","variant","AR","ONCOGENE",3,0
 "MAX GoF","variant","MAX","ONCOGENE",1,1
 "MAX GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
-"MAX GoF","variant","CCND1","ONCOGENE",3,0
 "MAX GoF","variant","CCND1","ONCOGENE",2,1
 "MAX GoF","variant","CDK4","ONCOGENE",2,1
 "MDM2 GoF","variant","MDM2","ONCOGENE",1,1
 "MDM2 GoF","variant","RB1","TUMOUR SUPPRESSOR",2,-1
 "MDM2 GoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "MDM2 GoF","variant","MDM2","ONCOGENE",3,-1
-"MDM2 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"MDM2 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "MDM2 GoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "MDM2 GoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "MDM2 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "MDM2 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"MDM2 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"MDM2 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "MDM2 GoF","variant","BCL2","ONCOGENE",3,1
 "MDM4 GoF","variant","MDM4","ONCOGENE",1,1
 "MDM4 GoF","variant","TP53","TUMOUR SUPPRESSOR",2,-1
 "MDM4 GoF","variant","MDM2","ONCOGENE",3,-1
-"MDM4 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
+"MDM4 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "MDM4 GoF","variant","PTEN","TUMOUR SUPPRESSOR",3,-1
 "MDM4 GoF","variant","PPM1D","TUMOUR SUPPRESSOR",3,-1
 "MDM4 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
 "MDM4 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,-1
-"MDM4 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,0
+"MDM4 GoF","variant","DDB2","TUMOUR SUPPRESSOR",3,-1
 "MDM4 GoF","variant","BCL2","ONCOGENE",3,1
 "MDM4 GoF","variant","MDM2","ONCOGENE",2,1
 "MDM4 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
@@ -1411,17 +961,14 @@
 "MECOM GoF","variant","MECOM","ONCOGENE",1,1
 "MECOM GoF","variant","TCF7L2","ONCOGENE",3,1
 "MECOM GoF","variant","BCL2","ONCOGENE",3,1
-"MECOM GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"MECOM GoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
 "MET GoF","variant","MET","ONCOGENE",1,1
 "MET GoF","variant","PTPN11","ONCOGENE",3,1
 "MET GoF","variant","PIK3CA","ONCOGENE",3,1
 "MET GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "MET GoF","variant","PIK3CB","ONCOGENE",3,1
-"MET GoF","variant","AKT1","ONCOGENE",3,0
+"MET GoF","variant","AKT1","ONCOGENE",3,1
 "MET GoF","variant","RAC1","ONCOGENE",3,-1
 "MET GoF","variant","MTOR","ONCOGENE",3,1
-"MET GoF","variant","VAV1","ONCOGENE",3,0
 "MET GoF","variant","PIK3CA","ONCOGENE",2,1
 "MET GoF","variant","HRAS","ONCOGENE",2,1
 "MET GoF","variant","ARAF","ONCOGENE",3,1
@@ -1431,25 +978,9 @@
 "MET GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "MET GoF","variant","PIK3CB","ONCOGENE",2,1
 "MET GoF","variant","SOS1","ONCOGENE",3,1
-"MET GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"MET GoF","variant","PDGFRA","ONCOGENE",3,0
-"MET GoF","variant","PDGFRB","ONCOGENE",3,0
-"MET GoF","variant","FGFR1","ONCOGENE",3,0
-"MET GoF","variant","KIT","ONCOGENE",3,0
-"MET GoF","variant","NTRK1","ONCOGENE",3,0
-"MET GoF","variant","ERBB2","ONCOGENE",3,0
-"MET GoF","variant","MET","ONCOGENE",3,0
-"MET GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"MET GoF","variant","FGFR4","ONCOGENE",3,0
-"MET GoF","variant","EGFR","ONCOGENE",3,0
-"MET GoF","variant","FGFR2","ONCOGENE",3,0
-"MET GoF","variant","FGFR3","ONCOGENE",3,0
-"MET GoF","variant","FLT3","ONCOGENE",3,0
-"MET GoF","variant","KDR","ONCOGENE",3,0
-"MET GoF","variant","ERBB3","ONCOGENE",3,0
 "MET GoF","variant","PLCG1","ONCOGENE",2,1
 "MET GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"MET GoF","variant","PRKCB","ONCOGENE",3,0
+"MET GoF","variant","PRKCB","ONCOGENE",3,1
 "MET GoF","variant","KRAS","ONCOGENE",2,1
 "MET GoF","variant","NRAS","ONCOGENE",2,1
 "MET GoF","variant","RHOA","ONCOGENE",3,1
@@ -1461,7 +992,6 @@
 "MET GoF","variant","CCND1","ONCOGENE",3,-1
 "MET GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,1
 "MET GoF","variant","EP300","TUMOUR SUPPRESSOR",3,1
-"MET GoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
 "MTCP1 GoF","variant","MTCP1","ONCOGENE",1,1
 "MTCP1 GoF","variant","MTOR","ONCOGENE",3,1
 "MTCP1 GoF","variant","MDM2","ONCOGENE",3,1
@@ -1473,19 +1003,17 @@
 "MTCP1 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,-1
 "MTCP1 GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,-1
 "MTCP1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
-"MTCP1 GoF","variant","RELA","ONCOGENE",3,0
 "MTCP1 GoF","variant","AKT1","ONCOGENE",2,1
 "MTOR GoF","variant","MTOR","ONCOGENE",1,1
 "MTOR GoF","variant","RHOA","ONCOGENE",2,1
 "MTOR GoF","variant","PRKCB","ONCOGENE",2,1
-"MTOR GoF","variant","NRAS","ONCOGENE",3,0
-"MTOR GoF","variant","RAF1","ONCOGENE",3,0
+"MTOR GoF","variant","NRAS","ONCOGENE",3,1
+"MTOR GoF","variant","RAF1","ONCOGENE",3,1
 "MTOR GoF","variant","BRAF","ONCOGENE",3,1
 "MTOR GoF","variant","ARAF","ONCOGENE",3,1
-"MTOR GoF","variant","HRAS","ONCOGENE",3,0
+"MTOR GoF","variant","HRAS","ONCOGENE",3,1
 "MTOR GoF","variant","MTOR","ONCOGENE",3,1
-"MTOR GoF","variant","KRAS","ONCOGENE",3,0
-"MTOR GoF","variant","RRAS2","ONCOGENE",3,0
+"MTOR GoF","variant","KRAS","ONCOGENE",3,1
 "MTOR GoF","variant","CLIP1","TUMOUR SUPPRESSOR",2,1
 "MYC GoF","variant","MYC","ONCOGENE",1,1
 "MYC GoF","variant","CCND1","ONCOGENE",2,1
@@ -1509,8 +1037,8 @@
 "MYC GoF","variant","FGFR2","ONCOGENE",3,1
 "MYC GoF","variant","PDGFRB","ONCOGENE",3,1
 "MYC GoF","variant","CDK4","ONCOGENE",2,1
-"MYC GoF","variant","CCND1","ONCOGENE",3,0
 "MYC GoF","variant","CCND2","ONCOGENE",3,1
+"MYC GoF","variant","CCND1","ONCOGENE",3,1
 "MYC GoF","variant","CCND3","ONCOGENE",3,1
 "MYC GoF","variant","CDK4","ONCOGENE",3,1
 "MYD88 GoF","variant","MYD88","ONCOGENE",1,1
@@ -1553,81 +1081,47 @@
 "NF1 LoF","variant","NRAS","ONCOGENE",2,1
 "NFE2L2 GoF","variant","NFE2L2","ONCOGENE",1,1
 "NFKBIA LoF","variant","NFKBIA","TUMOUR SUPPRESSOR",1,-1
-"NFKBIA LoF","variant","BCL2","ONCOGENE",3,0
-"NFKBIA LoF","variant","CCND1","ONCOGENE",3,0
-"NFKBIA LoF","variant","PTPN13","TUMOUR SUPPRESSOR",3,0
-"NFKBIA LoF","variant","TRAF3","TUMOUR SUPPRESSOR",3,0
-"NFKBIA LoF","variant","BIRC3","ONCOGENE",3,0
-"NFKBIA LoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,0
-"NFKBIA LoF","variant","RELA","ONCOGENE",2,0
 "NPRL2 LoF","variant","NPRL2","TUMOUR SUPPRESSOR",1,-1
 "NPRL2 LoF","variant","MTOR","ONCOGENE",3,1
-"NPRL2 LoF","variant","RRAGC","ONCOGENE",3,0
 "NRAS GoF","variant","NRAS","ONCOGENE",1,1
 "NRAS GoF","variant","PIK3CB","ONCOGENE",2,1
-"NRAS GoF","variant","AKT1","ONCOGENE",3,0
+"NRAS GoF","variant","AKT1","ONCOGENE",3,1
 "NRAS GoF","variant","RAC1","ONCOGENE",3,1
 "NRAS GoF","variant","MTOR","ONCOGENE",3,1
-"NRAS GoF","variant","VAV1","ONCOGENE",3,0
 "NRAS GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "NRAS GoF","variant","RALGDS","ONCOGENE",2,1
 "NRAS GoF","variant","RHOA","ONCOGENE",3,1
-"NRAS GoF","variant","HRAS","ONCOGENE",3,0
-"NRAS GoF","variant","CCND1","ONCOGENE",3,0
-"NRAS GoF","variant","KRAS","ONCOGENE",3,0
-"NRAS GoF","variant","NRAS","ONCOGENE",3,0
 "NRAS GoF","variant","BRAF","ONCOGENE",2,1
-"NRAS GoF","variant","MAP2K1","ONCOGENE",3,0
+"NRAS GoF","variant","MAP2K1","ONCOGENE",3,1
 "NRAS GoF","variant","RAF1","ONCOGENE",2,1
 "NRAS GoF","variant","PIK3CA","ONCOGENE",2,1
 "NRAS GoF","variant","ARAF","ONCOGENE",2,1
 "NTRK1 GoF","variant","NTRK1","ONCOGENE",1,1
 "NTRK1 GoF","variant","PLCG1","ONCOGENE",2,1
 "NTRK1 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"NTRK1 GoF","variant","PRKCB","ONCOGENE",3,0
+"NTRK1 GoF","variant","PRKCB","ONCOGENE",3,1
 "NTRK1 GoF","variant","SOS1","ONCOGENE",3,1
-"NTRK1 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"NTRK1 GoF","variant","PDGFRA","ONCOGENE",3,0
-"NTRK1 GoF","variant","PDGFRB","ONCOGENE",3,0
-"NTRK1 GoF","variant","FGFR1","ONCOGENE",3,0
-"NTRK1 GoF","variant","KIT","ONCOGENE",3,0
-"NTRK1 GoF","variant","NTRK1","ONCOGENE",3,0
-"NTRK1 GoF","variant","ERBB2","ONCOGENE",3,0
-"NTRK1 GoF","variant","MET","ONCOGENE",3,0
-"NTRK1 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"NTRK1 GoF","variant","FGFR4","ONCOGENE",3,0
-"NTRK1 GoF","variant","EGFR","ONCOGENE",3,0
-"NTRK1 GoF","variant","FGFR2","ONCOGENE",3,0
-"NTRK1 GoF","variant","FGFR3","ONCOGENE",3,0
-"NTRK1 GoF","variant","FLT3","ONCOGENE",3,0
-"NTRK1 GoF","variant","KDR","ONCOGENE",3,0
-"NTRK1 GoF","variant","ERBB3","ONCOGENE",3,0
-"NTRK1 GoF","variant","AKT1","ONCOGENE",3,0
+"NTRK1 GoF","variant","AKT1","ONCOGENE",3,1
 "NTRK1 GoF","variant","MTOR","ONCOGENE",3,1
 "NTRK1 GoF","variant","RAC1","ONCOGENE",3,1
-"NTRK1 GoF","variant","VAV1","ONCOGENE",3,0
-"NTRK1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"NTRK1 GoF","variant","PIK3CB","ONCOGENE",3,0
-"NTRK1 GoF","variant","PIK3CA","ONCOGENE",3,0
-"NTRK1 GoF","variant","HRAS","ONCOGENE",2,0
-"NTRK1 GoF","variant","ARAF","ONCOGENE",3,0
-"NTRK1 GoF","variant","RAF1","ONCOGENE",3,0
-"NTRK1 GoF","variant","BRAF","ONCOGENE",3,0
-"NTRK1 GoF","variant","RALGDS","ONCOGENE",3,0
+"NTRK1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"NTRK1 GoF","variant","PIK3CB","ONCOGENE",3,1
+"NTRK1 GoF","variant","PIK3CA","ONCOGENE",3,1
+"NTRK1 GoF","variant","HRAS","ONCOGENE",2,1
+"NTRK1 GoF","variant","ARAF","ONCOGENE",3,1
+"NTRK1 GoF","variant","RAF1","ONCOGENE",3,1
+"NTRK1 GoF","variant","BRAF","ONCOGENE",3,1
+"NTRK1 GoF","variant","RALGDS","ONCOGENE",3,1
 "NTRK1 GoF","variant","PIK3CA","ONCOGENE",2,1
-"NTRK1 GoF","variant","NRAS","ONCOGENE",2,0
+"NTRK1 GoF","variant","NRAS","ONCOGENE",2,1
 "NTRK1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "NTRK1 GoF","variant","PIK3CB","ONCOGENE",2,1
-"NTRK1 GoF","variant","KRAS","ONCOGENE",2,0
+"NTRK1 GoF","variant","KRAS","ONCOGENE",2,1
 "NTRK3 GoF","variant","NTRK3","ONCOGENE",1,1
 "NTRK3 GoF","variant","PLCG1","ONCOGENE",2,1
 "NTRK3 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"NTRK3 GoF","variant","PRKCB","ONCOGENE",3,0
+"NTRK3 GoF","variant","PRKCB","ONCOGENE",3,1
 "PAK2 GoF","variant","PAK2","ONCOGENE",1,1
-"PAK2 GoF","variant","RAF1","ONCOGENE",2,0
-"PAK2 GoF","variant","MAP2K1","ONCOGENE",3,0
-"PAK2 GoF","variant","MAP2K1","ONCOGENE",2,0
-"PAK2 GoF","variant","MAPK1","ONCOGENE",3,0
 "PBRM1 LoF","variant","PBRM1","TUMOUR SUPPRESSOR",1,-1
 "PDGFRA GoF","variant","PDGFRA","ONCOGENE",1,1
 "PDGFRA GoF","variant","BCL2","ONCOGENE",3,1
@@ -1638,7 +1132,6 @@
 "PDGFRA GoF","variant","CCND2","ONCOGENE",3,1
 "PDGFRA GoF","variant","CCND3","ONCOGENE",3,1
 "PDGFRA GoF","variant","MYC","ONCOGENE",3,1
-"PDGFRA GoF","variant","STAT6","ONCOGENE",3,0
 "PDGFRA GoF","variant","KRAS","ONCOGENE",2,1
 "PDGFRA GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "PDGFRA GoF","variant","BRAF","ONCOGENE",3,1
@@ -1648,61 +1141,27 @@
 "PDGFRA GoF","variant","RALGDS","ONCOGENE",3,1
 "PDGFRA GoF","variant","PIK3CA","ONCOGENE",3,1
 "PDGFRA GoF","variant","PIK3CB","ONCOGENE",2,1
-"PDGFRA GoF","variant","AKT1","ONCOGENE",3,0
+"PDGFRA GoF","variant","AKT1","ONCOGENE",3,1
 "PDGFRA GoF","variant","RAC1","ONCOGENE",3,1
 "PDGFRA GoF","variant","MTOR","ONCOGENE",3,1
-"PDGFRA GoF","variant","VAV1","ONCOGENE",3,0
 "PDGFRA GoF","variant","PLCG1","ONCOGENE",2,1
 "PDGFRA GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
-"PDGFRA GoF","variant","PRKCB","ONCOGENE",3,0
+"PDGFRA GoF","variant","PRKCB","ONCOGENE",3,1
 "PDGFRA GoF","variant","NRAS","ONCOGENE",2,1
 "PDGFRA GoF","variant","HRAS","ONCOGENE",2,1
 "PDGFRA GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "PDGFRA GoF","variant","SOS1","ONCOGENE",3,1
-"PDGFRA GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"PDGFRA GoF","variant","PDGFRA","ONCOGENE",3,0
-"PDGFRA GoF","variant","PDGFRB","ONCOGENE",3,0
-"PDGFRA GoF","variant","FGFR1","ONCOGENE",3,0
-"PDGFRA GoF","variant","KIT","ONCOGENE",3,0
-"PDGFRA GoF","variant","NTRK1","ONCOGENE",3,0
-"PDGFRA GoF","variant","ERBB2","ONCOGENE",3,0
-"PDGFRA GoF","variant","MET","ONCOGENE",3,0
-"PDGFRA GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"PDGFRA GoF","variant","FGFR4","ONCOGENE",3,0
-"PDGFRA GoF","variant","EGFR","ONCOGENE",3,0
-"PDGFRA GoF","variant","FGFR2","ONCOGENE",3,0
-"PDGFRA GoF","variant","FGFR3","ONCOGENE",3,0
-"PDGFRA GoF","variant","FLT3","ONCOGENE",3,0
-"PDGFRA GoF","variant","KDR","ONCOGENE",3,0
-"PDGFRA GoF","variant","ERBB3","ONCOGENE",3,0
 "PDGFRA GoF","variant","PIK3CA","ONCOGENE",2,1
 "PDGFRB GoF","variant","PDGFRB","ONCOGENE",1,1
 "PDGFRB GoF","variant","RAC1","ONCOGENE",3,1
-"PDGFRB GoF","variant","AKT1","ONCOGENE",3,0
+"PDGFRB GoF","variant","AKT1","ONCOGENE",3,1
 "PDGFRB GoF","variant","MTOR","ONCOGENE",3,1
-"PDGFRB GoF","variant","VAV1","ONCOGENE",3,0
 "PDGFRB GoF","variant","SOS1","ONCOGENE",3,1
-"PDGFRB GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"PDGFRB GoF","variant","PDGFRA","ONCOGENE",3,0
-"PDGFRB GoF","variant","PDGFRB","ONCOGENE",3,0
-"PDGFRB GoF","variant","FGFR1","ONCOGENE",3,0
-"PDGFRB GoF","variant","KIT","ONCOGENE",3,0
-"PDGFRB GoF","variant","NTRK1","ONCOGENE",3,0
-"PDGFRB GoF","variant","ERBB2","ONCOGENE",3,0
-"PDGFRB GoF","variant","MET","ONCOGENE",3,0
-"PDGFRB GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"PDGFRB GoF","variant","FGFR4","ONCOGENE",3,0
-"PDGFRB GoF","variant","EGFR","ONCOGENE",3,0
-"PDGFRB GoF","variant","FGFR2","ONCOGENE",3,0
-"PDGFRB GoF","variant","FGFR3","ONCOGENE",3,0
-"PDGFRB GoF","variant","FLT3","ONCOGENE",3,0
-"PDGFRB GoF","variant","KDR","ONCOGENE",3,0
-"PDGFRB GoF","variant","ERBB3","ONCOGENE",3,0
 "PDGFRB GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "PDGFRB GoF","variant","PIK3CB","ONCOGENE",3,1
 "PDGFRB GoF","variant","PIK3CA","ONCOGENE",3,1
 "PDGFRB GoF","variant","PIK3CB","ONCOGENE",2,1
-"PDGFRB GoF","variant","PRKCB","ONCOGENE",3,0
+"PDGFRB GoF","variant","PRKCB","ONCOGENE",3,1
 "PDGFRB GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
 "PDGFRB GoF","variant","BCL2","ONCOGENE",3,1
 "PDGFRB GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,1
@@ -1712,7 +1171,6 @@
 "PDGFRB GoF","variant","CCND2","ONCOGENE",3,1
 "PDGFRB GoF","variant","CCND3","ONCOGENE",3,1
 "PDGFRB GoF","variant","MYC","ONCOGENE",3,1
-"PDGFRB GoF","variant","STAT6","ONCOGENE",3,0
 "PDGFRB GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "PDGFRB GoF","variant","NRAS","ONCOGENE",2,1
 "PDGFRB GoF","variant","RALGDS","ONCOGENE",3,1
@@ -1724,72 +1182,68 @@
 "PDGFRB GoF","variant","KRAS","ONCOGENE",2,1
 "PDGFRB GoF","variant","PLCG1","ONCOGENE",2,1
 "PIK3CA GoF","variant","PIK3CA","ONCOGENE",1,1
-"PIK3CA GoF","variant","MTOR","ONCOGENE",3,0
-"PIK3CA GoF","variant","MDM2","ONCOGENE",3,0
-"PIK3CA GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","RAF1","ONCOGENE",3,0
-"PIK3CA GoF","variant","FOXO1","ONCOGENE",3,0
-"PIK3CA GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"PIK3CA GoF","variant","RELA","ONCOGENE",3,0
+"PIK3CA GoF","variant","MTOR","ONCOGENE",3,1
+"PIK3CA GoF","variant","MDM2","ONCOGENE",3,1
+"PIK3CA GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
+"PIK3CA GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
+"PIK3CA GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
+"PIK3CA GoF","variant","RAF1","ONCOGENE",3,-1
+"PIK3CA GoF","variant","FOXO1","ONCOGENE",3,-1
+"PIK3CA GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,-1
+"PIK3CA GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,-1
+"PIK3CA GoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
 "PIK3CA GoF","variant","MTOR","ONCOGENE",2,1
 "PIK3CA GoF","variant","RHOA","ONCOGENE",3,1
 "PIK3CA GoF","variant","PRKCB","ONCOGENE",3,1
 "PIK3CA GoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,1
 "PIK3CA GoF","variant","PAK2","ONCOGENE",3,1
 "PIK3CA GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,1
-"PIK3CA GoF","variant","AKT1","ONCOGENE",3,0
+"PIK3CA GoF","variant","RELA","ONCOGENE",3,1
+"PIK3CA GoF","variant","AKT1","ONCOGENE",3,1
 "PIK3CA GoF","variant","RAC1","ONCOGENE",2,1
 "PIK3CA GoF","variant","PIK3CA","ONCOGENE",3,1
 "PIK3CA GoF","variant","PIK3CB","ONCOGENE",3,1
 "PIK3CA GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
-"PIK3CA GoF","variant","AKT1","ONCOGENE",2,0
-"PIK3CA GoF","variant","VAV1","ONCOGENE",2,0
-"PIK3CA GoF","variant","RAC1","ONCOGENE",3,0
+"PIK3CA GoF","variant","AKT1","ONCOGENE",2,1
 "PIK3CB GoF","variant","PIK3CB","ONCOGENE",1,1
-"PIK3CB GoF","variant","AKT1","ONCOGENE",3,0
+"PIK3CB GoF","variant","AKT1","ONCOGENE",3,1
 "PIK3CB GoF","variant","PIK3CA","ONCOGENE",3,1
 "PIK3CB GoF","variant","PIK3CB","ONCOGENE",3,1
 "PIK3CB GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "PIK3CB GoF","variant","PAK2","ONCOGENE",3,1
 "PIK3CB GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,1
-"PIK3CB GoF","variant","RELA","ONCOGENE",3,0
-"PIK3CB GoF","variant","AKT1","ONCOGENE",2,0
-"PIK3CB GoF","variant","MDM2","ONCOGENE",3,0
-"PIK3CB GoF","variant","MTOR","ONCOGENE",3,0
-"PIK3CB GoF","variant","RAF1","ONCOGENE",3,0
-"PIK3CB GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"PIK3CB GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"PIK3CB GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"PIK3CB GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,0
-"PIK3CB GoF","variant","FOXO1","ONCOGENE",3,0
-"PIK3CB GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"PIK3CB GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
+"PIK3CB GoF","variant","RELA","ONCOGENE",3,1
+"PIK3CB GoF","variant","AKT1","ONCOGENE",2,1
+"PIK3CB GoF","variant","MDM2","ONCOGENE",3,1
+"PIK3CB GoF","variant","MTOR","ONCOGENE",3,1
+"PIK3CB GoF","variant","RAF1","ONCOGENE",3,-1
+"PIK3CB GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
+"PIK3CB GoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
+"PIK3CB GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,-1
+"PIK3CB GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,-1
+"PIK3CB GoF","variant","FOXO1","ONCOGENE",3,-1
+"PIK3CB GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,-1
+"PIK3CB GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,-1
 "PIK3CB GoF","variant","RAC1","ONCOGENE",2,1
 "PIK3CB GoF","variant","MTOR","ONCOGENE",2,1
 "PIK3CB GoF","variant","RHOA","ONCOGENE",3,1
 "PIK3CB GoF","variant","PRKCB","ONCOGENE",3,1
 "PIK3CB GoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,1
-"PIK3CB GoF","variant","RAC1","ONCOGENE",3,0
-"PIK3CB GoF","variant","VAV1","ONCOGENE",2,0
 "PIK3R1 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",1,-1
-"PIK3R1 LoF","variant","AKT1","ONCOGENE",3,0
-"PIK3R1 LoF","variant","MDM2","ONCOGENE",3,0
-"PIK3R1 LoF","variant","MTOR","ONCOGENE",3,0
-"PIK3R1 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","FOXO1","ONCOGENE",3,0
-"PIK3R1 LoF","variant","RAF1","ONCOGENE",3,0
-"PIK3R1 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,0
-"PIK3R1 LoF","variant","RELA","ONCOGENE",3,0
+"PIK3R1 LoF","variant","AKT1","ONCOGENE",3,1
+"PIK3R1 LoF","variant","MDM2","ONCOGENE",3,-1
+"PIK3R1 LoF","variant","MTOR","ONCOGENE",3,-1
+"PIK3R1 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
+"PIK3R1 LoF","variant","FOXO1","ONCOGENE",3,1
+"PIK3R1 LoF","variant","RAF1","ONCOGENE",3,1
+"PIK3R1 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
+"PIK3R1 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
+"PIK3R1 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
+"PIK3R1 LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,1
+"PIK3R1 LoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,1
 "PIK3R1 LoF","variant","RAC1","ONCOGENE",2,-1
 "PIK3R1 LoF","variant","PIK3CA","ONCOGENE",3,1
+"PIK3R1 LoF","variant","RELA","ONCOGENE",3,-1
 "PIK3R1 LoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,-1
 "PIK3R1 LoF","variant","PAK2","ONCOGENE",3,-1
 "PIK3R1 LoF","variant","PIK3CB","ONCOGENE",3,1
@@ -1798,42 +1252,26 @@
 "PIK3R1 LoF","variant","RHOA","ONCOGENE",3,-1
 "PIK3R1 LoF","variant","PRKCB","ONCOGENE",3,-1
 "PIK3R1 LoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,-1
-"PIK3R1 LoF","variant","AKT1","ONCOGENE",2,0
-"PIK3R1 LoF","variant","VAV1","ONCOGENE",2,0
-"PIK3R1 LoF","variant","RAC1","ONCOGENE",3,0
+"PIK3R1 LoF","variant","AKT1","ONCOGENE",2,-1
 "PIM1 LoF","variant","PIM1","TUMOUR SUPPRESSOR",1,-1
 "PLCB4 GoF","variant","PLCB4","ONCOGENE",1,1
 "PLCB4 GoF","variant","PRKCD","TUMOUR SUPPRESSOR",3,1
 "PLCB4 GoF","variant","PRKCB","ONCOGENE",3,1
 "PLCB4 GoF","variant","PLCG1","ONCOGENE",3,1
-"PLCB4 GoF","variant","NRAS","ONCOGENE",3,0
-"PLCB4 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"PLCB4 GoF","variant","HRAS","ONCOGENE",3,0
-"PLCB4 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"PLCB4 GoF","variant","KRAS","ONCOGENE",3,0
-"PLCB4 GoF","variant","MTOR","ONCOGENE",3,0
-"PLCB4 GoF","variant","RAF1","ONCOGENE",3,0
-"PLCB4 GoF","variant","BRAF","ONCOGENE",3,0
-"PLCB4 GoF","variant","ARAF","ONCOGENE",3,0
-"PLCB4 GoF","variant","RRAS2","ONCOGENE",3,0
-"PLCB4 GoF","variant","PRKCB","ONCOGENE",2,0
-"PLCB4 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",2,0
 "PLCG1 GoF","variant","PLCG1","ONCOGENE",1,1
 "PLCG1 GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",2,1
-"PLCG1 GoF","variant","NRAS","ONCOGENE",3,0
-"PLCG1 GoF","variant","KRAS","ONCOGENE",3,0
-"PLCG1 GoF","variant","HRAS","ONCOGENE",3,0
-"PLCG1 GoF","variant","MTOR","ONCOGENE",3,0
-"PLCG1 GoF","variant","RAF1","ONCOGENE",3,0
-"PLCG1 GoF","variant","BRAF","ONCOGENE",3,0
-"PLCG1 GoF","variant","ARAF","ONCOGENE",3,0
-"PLCG1 GoF","variant","RRAS2","ONCOGENE",3,0
+"PLCG1 GoF","variant","NRAS","ONCOGENE",3,1
+"PLCG1 GoF","variant","KRAS","ONCOGENE",3,1
+"PLCG1 GoF","variant","HRAS","ONCOGENE",3,1
+"PLCG1 GoF","variant","MTOR","ONCOGENE",3,1
+"PLCG1 GoF","variant","RAF1","ONCOGENE",3,1
+"PLCG1 GoF","variant","BRAF","ONCOGENE",3,1
+"PLCG1 GoF","variant","ARAF","ONCOGENE",3,1
 "PLCG1 GoF","variant","PLCG1","ONCOGENE",3,1
 "PLCG1 GoF","variant","PRKCD","TUMOUR SUPPRESSOR",3,1
 "PLCG1 GoF","variant","PRKCB","ONCOGENE",3,1
-"PLCG1 GoF","variant","PRKCB","ONCOGENE",2,0
+"PLCG1 GoF","variant","PRKCB","ONCOGENE",2,1
 "PML LoF","variant","PML","TUMOUR SUPPRESSOR",1,-1
-"PML LoF","variant","CSF3R","ONCOGENE",3,0
 "PML LoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
 "PML LoF","variant","MYC","ONCOGENE",2,-1
 "PML LoF","variant","CCND1","ONCOGENE",3,1
@@ -1841,7 +1279,6 @@
 "PML LoF","variant","RARA","ONCOGENE",2,-1
 "PML LoF","variant","MYC","ONCOGENE",3,1
 "PML LoF","variant","RARA","ONCOGENE",3,-1
-"PML LoF","variant","TCF7L2","ONCOGENE",3,0
 "PPM1D LoF","variant","PPM1D","TUMOUR SUPPRESSOR",1,-1
 "PPP2R1A GoF","variant","PPP2R1A","ONCOGENE",1,1
 "PPP2R1A GoF","variant","AKT1","ONCOGENE",2,-1
@@ -1855,62 +1292,45 @@
 "PPP2R1A GoF","variant","FOXO1","ONCOGENE",3,1
 "PPP2R1A GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
 "PPP2R1A GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,1
-"PPP2R1A GoF","variant","RELA","ONCOGENE",3,0
 "PPP3CA LoF","variant","PPP3CA","TUMOUR SUPPRESSOR",1,-1
 "PRKCB GoF","variant","PRKCB","ONCOGENE",1,1
-"PRKCB GoF","variant","NRAS","ONCOGENE",2,0
-"PRKCB GoF","variant","PIK3CB","ONCOGENE",3,0
-"PRKCB GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"PRKCB GoF","variant","RALGDS","ONCOGENE",3,0
-"PRKCB GoF","variant","BRAF","ONCOGENE",3,0
-"PRKCB GoF","variant","RAF1","ONCOGENE",3,0
-"PRKCB GoF","variant","PIK3CA","ONCOGENE",3,0
-"PRKCB GoF","variant","ARAF","ONCOGENE",3,0
-"PRKCB GoF","variant","NRAS","ONCOGENE",3,0
-"PRKCB GoF","variant","HRAS","ONCOGENE",3,0
-"PRKCB GoF","variant","KRAS","ONCOGENE",3,0
-"PRKCB GoF","variant","RAF1","ONCOGENE",2,0
-"PRKCB GoF","variant","MAP2K1","ONCOGENE",3,0
+"PRKCB GoF","variant","NRAS","ONCOGENE",2,1
+"PRKCB GoF","variant","PIK3CB","ONCOGENE",3,1
+"PRKCB GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"PRKCB GoF","variant","RALGDS","ONCOGENE",3,1
+"PRKCB GoF","variant","BRAF","ONCOGENE",3,1
+"PRKCB GoF","variant","RAF1","ONCOGENE",3,1
+"PRKCB GoF","variant","PIK3CA","ONCOGENE",3,1
+"PRKCB GoF","variant","ARAF","ONCOGENE",3,1
+"PRKCB GoF","variant","RAF1","ONCOGENE",2,1
+"PRKCB GoF","variant","MAP2K1","ONCOGENE",3,1
 "PRKCB GoF","variant","BRAF","ONCOGENE",2,1
 "PRKCB GoF","variant","ARAF","ONCOGENE",2,1
 "PRKCB GoF","variant","BIRC3","ONCOGENE",3,1
 "PRKCB GoF","variant","CCND3","ONCOGENE",3,1
 "PRKCB GoF","variant","CCND1","ONCOGENE",3,1
 "PRKCB GoF","variant","CCND2","ONCOGENE",3,1
-"PRKCB GoF","variant","HRAS","ONCOGENE",2,0
+"PRKCB GoF","variant","HRAS","ONCOGENE",2,1
 "PRKCB GoF","variant","MTOR","ONCOGENE",2,1
 "PRKCB GoF","variant","RHOA","ONCOGENE",3,1
 "PRKCB GoF","variant","PRKCB","ONCOGENE",3,1
 "PRKCB GoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,1
-"PRKCB GoF","variant","KRAS","ONCOGENE",2,0
-"PRKCB GoF","variant","EPAS1","ONCOGENE",3,0
-"PRKCB GoF","variant","RRAS2","ONCOGENE",2,0
+"PRKCB GoF","variant","KRAS","ONCOGENE",2,1
+"PRKCB GoF","variant","EPAS1","ONCOGENE",3,-1
 "PRKCD LoF","variant","PRKCD","TUMOUR SUPPRESSOR",1,-1
 "PTCH1 LoF","variant","PTCH1","TUMOUR SUPPRESSOR",1,-1
 "PTCH1 LoF","variant","SMO","ONCOGENE",2,1
 "PTEN LoF","variant","PTEN","TUMOUR SUPPRESSOR",1,-1
-"PTEN LoF","variant","PIK3CB","ONCOGENE",3,0
-"PTEN LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"PTEN LoF","variant","PIK3CA","ONCOGENE",3,0
-"PTEN LoF","variant","AKT1","ONCOGENE",3,0
+"PTEN LoF","variant","PIK3CB","ONCOGENE",3,1
+"PTEN LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
+"PTEN LoF","variant","PIK3CA","ONCOGENE",3,1
+"PTEN LoF","variant","AKT1","ONCOGENE",3,1
 "PTPN11 GoF","variant","PTPN11","ONCOGENE",1,1
 "PTPN11 GoF","variant","RRAS2","ONCOGENE",3,1
 "PTPN11 GoF","variant","HRAS","ONCOGENE",3,1
 "PTPN11 GoF","variant","KRAS","ONCOGENE",3,1
 "PTPN11 GoF","variant","NRAS","ONCOGENE",3,1
 "PTPN11 GoF","variant","SOS1","ONCOGENE",2,1
-"PTPN11 GoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",3,0
-"PTPN11 GoF","variant","MYC","ONCOGENE",3,0
-"PTPN11 GoF","variant","CCND1","ONCOGENE",3,0
-"PTPN11 GoF","variant","CDK4","ONCOGENE",3,0
-"PTPN11 GoF","variant","ESR1","ONCOGENE",3,0
-"PTPN11 GoF","variant","BCL2","ONCOGENE",3,0
-"PTPN11 GoF","variant","TSC2","TUMOUR SUPPRESSOR",3,0
-"PTPN11 GoF","variant","TSC1","TUMOUR SUPPRESSOR",3,0
-"PTPN11 GoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
-"PTPN11 GoF","variant","SMAD2","TUMOUR SUPPRESSOR",3,0
-"PTPN11 GoF","variant","AR","ONCOGENE",3,0
-"PTPN11 GoF","variant","MAPK1","ONCOGENE",2,0
 "PTPN13 LoF","variant","PTPN13","TUMOUR SUPPRESSOR",1,-1
 "PTPN6 LoF","variant","PTPN6","TUMOUR SUPPRESSOR",1,-1
 "PTPN6 LoF","variant","RAC1","ONCOGENE",3,-1
@@ -1925,31 +1345,23 @@
 "RAC1 GoF","variant","PIK3CA","ONCOGENE",2,1
 "RAC1 GoF","variant","MTOR","ONCOGENE",3,1
 "RAC1 GoF","variant","RAC1","ONCOGENE",3,1
-"RAC1 GoF","variant","AKT1","ONCOGENE",3,0
-"RAC1 GoF","variant","VAV1","ONCOGENE",3,0
+"RAC1 GoF","variant","AKT1","ONCOGENE",3,1
 "RAC1 GoF","variant","RELA","ONCOGENE",2,1
-"RAC1 GoF","variant","BCL2","ONCOGENE",3,0
+"RAC1 GoF","variant","BCL2","ONCOGENE",3,-1
 "RAC1 GoF","variant","TRAF3","TUMOUR SUPPRESSOR",3,1
 "RAC1 GoF","variant","PTPN13","TUMOUR SUPPRESSOR",3,1
 "RAC1 GoF","variant","BIRC3","ONCOGENE",3,1
 "RAC1 GoF","variant","CCND1","ONCOGENE",3,1
-"RAC1 GoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,0
 "RAC1 GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",2,1
-"RAC1 GoF","variant","MAP2K1","ONCOGENE",3,0
-"RAC1 GoF","variant","MAP2K4","TUMOUR SUPPRESSOR",3,0
 "RAC1 GoF","variant","PAK2","ONCOGENE",2,1
-"RAC1 GoF","variant","RAF1","ONCOGENE",3,0
-"RAC1 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"RAC1 GoF","variant","SMARCB1","TUMOUR SUPPRESSOR",3,0
-"RAC1 GoF","variant","SMARCA4","TUMOUR SUPPRESSOR",3,0
 "RAC1 GoF","variant","CTNNB1","ONCOGENE",3,-1
 "RAC1 GoF","variant","PIK3CB","ONCOGENE",2,1
 "RAC1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",2,1
 "RAD21 LoF","variant","RAD21","TUMOUR SUPPRESSOR",1,-1
 "RAF1 GoF","variant","RAF1","ONCOGENE",1,1
 "RAF1 GoF","variant","BCL2","ONCOGENE",3,1
-"RAF1 GoF","variant","MAP2K1","ONCOGENE",2,0
-"RAF1 GoF","variant","MAPK1","ONCOGENE",3,0
+"RAF1 GoF","variant","MAP2K1","ONCOGENE",2,1
+"RAF1 GoF","variant","MAPK1","ONCOGENE",3,1
 "RALGDS GoF","variant","RALGDS","ONCOGENE",1,1
 "RALGDS GoF","variant","PAK2","ONCOGENE",3,1
 "RALGDS GoF","variant","MAP3K1","TUMOUR SUPPRESSOR",3,1
@@ -1966,9 +1378,7 @@
 "RARA GoF","variant","MYC","ONCOGENE",2,1
 "RARA GoF","variant","CCND1","ONCOGENE",3,1
 "RARA GoF","variant","CDK4","ONCOGENE",3,1
-"RARA GoF","variant","CSF3R","ONCOGENE",3,0
 "RARA GoF","variant","MYC","ONCOGENE",3,1
-"RARA GoF","variant","TCF7L2","ONCOGENE",3,0
 "RARA GoF","variant","RARA","ONCOGENE",2,1
 "RARA GoF","variant","MAPK1","ONCOGENE",3,1
 "RASA1 LoF","variant","RASA1","TUMOUR SUPPRESSOR",1,-1
@@ -1996,14 +1406,10 @@
 "RASA2 LoF","variant","NRAS","ONCOGENE",2,1
 "RASA2 LoF","variant","RRAS2","ONCOGENE",2,1
 "RB1 LoF","variant","RB1","TUMOUR SUPPRESSOR",1,-1
-"RB1 LoF","variant","RB1","TUMOUR SUPPRESSOR",3,0
-"RB1 LoF","variant","MYC","ONCOGENE",3,0
 "RELA GoF","variant","RELA","ONCOGENE",1,1
 "RELA GoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,1
 "RELA GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "RELA GoF","variant","BCL2","ONCOGENE",3,1
-"RELA GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"RELA GoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
 "RELA GoF","variant","CASP8","TUMOUR SUPPRESSOR",3,-1
 "RELA GoF","variant","BCL2","ONCOGENE",2,1
 "RELA GoF","variant","TRAF3","TUMOUR SUPPRESSOR",2,1
@@ -2031,35 +1437,16 @@
 "RELA GoF","variant","BIRC3","ONCOGENE",2,1
 "RELA GoF","variant","CCND1","ONCOGENE",2,1
 "RELA GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
-"RELA GoF","variant","NFKBIA","TUMOUR SUPPRESSOR",2,0
-"RELA GoF","variant","RELA","ONCOGENE",3,0
 "RET GoF","variant","RET","ONCOGENE",1,1
-"RET GoF","variant","PRKCB","ONCOGENE",3,0
+"RET GoF","variant","PRKCB","ONCOGENE",3,1
 "RET GoF","variant","PPP3CA","TUMOUR SUPPRESSOR",3,1
 "RET GoF","variant","PLCG1","ONCOGENE",2,1
-"RET GoF","variant","NRAS","ONCOGENE",2,0
-"RET GoF","variant","PIK3CB","ONCOGENE",3,0
-"RET GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"RET GoF","variant","RALGDS","ONCOGENE",3,0
-"RET GoF","variant","BRAF","ONCOGENE",3,0
-"RET GoF","variant","RAF1","ONCOGENE",3,0
-"RET GoF","variant","PIK3CA","ONCOGENE",3,0
-"RET GoF","variant","ARAF","ONCOGENE",3,0
-"RET GoF","variant","KRAS","ONCOGENE",2,0
-"RET GoF","variant","HRAS","ONCOGENE",2,0
 "RHOA GoF","variant","RHOA","ONCOGENE",1,1
-"RHOA GoF","variant","BCL2","ONCOGENE",3,0
-"RHOA GoF","variant","TP53","TUMOUR SUPPRESSOR",3,0
-"RHOA GoF","variant","SMARCB1","TUMOUR SUPPRESSOR",3,0
-"RHOA GoF","variant","SMARCA4","TUMOUR SUPPRESSOR",3,0
+"RHOA GoF","variant","BCL2","ONCOGENE",3,-1
 "RNF43 LoF","variant","RNF43","TUMOUR SUPPRESSOR",1,-1
-"RNF43 LoF","variant","PLCB4","ONCOGENE",3,0
 "RPS6KA3 LoF","variant","RPS6KA3","TUMOUR SUPPRESSOR",1,-1
 "RPS6KA3 LoF","variant","TSC1","TUMOUR SUPPRESSOR",2,1
 "RPS6KA3 LoF","variant","TSC2","TUMOUR SUPPRESSOR",2,1
-"RPS6KA3 LoF","variant","BCL2","ONCOGENE",3,0
-"RPS6KA3 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"RPS6KA3 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
 "RRAGC GoF","variant","RRAGC","ONCOGENE",1,1
 "RRAGC GoF","variant","MTOR","ONCOGENE",2,1
 "RRAGC GoF","variant","RHOA","ONCOGENE",3,1
@@ -2067,66 +1454,49 @@
 "RRAGC GoF","variant","CLIP1","TUMOUR SUPPRESSOR",3,1
 "RRAS2 GoF","variant","RRAS2","ONCOGENE",1,1
 "RRAS2 GoF","variant","ARAF","ONCOGENE",2,1
-"RRAS2 GoF","variant","MAP2K1","ONCOGENE",3,0
-"RRAS2 GoF","variant","PRKCB","ONCOGENE",3,0
+"RRAS2 GoF","variant","MAP2K1","ONCOGENE",3,1
 "RRAS2 GoF","variant","RAF1","ONCOGENE",2,1
 "RRAS2 GoF","variant","BRAF","ONCOGENE",2,1
 "RXRA LoF","variant","RXRA","TUMOUR SUPPRESSOR",1,-1
-"RXRA LoF","variant","AKT1","ONCOGENE",3,0
+"RXRA LoF","variant","AKT1","ONCOGENE",3,1
 "RXRA LoF","variant","ACSL3","ONCOGENE",2,-1
 "SDC4 LoF","variant","SDC4","TUMOUR SUPPRESSOR",1,-1
 "SMAD2 LoF","variant","SMAD2","TUMOUR SUPPRESSOR",1,-1
-"SMAD2 LoF","variant","MYC","ONCOGENE",3,0
+"SMAD2 LoF","variant","MYC","ONCOGENE",3,1
 "SMAD2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
 "SMAD2 LoF","variant","CCND3","ONCOGENE",3,1
-"SMAD2 LoF","variant","CDK4","ONCOGENE",3,0
-"SMAD2 LoF","variant","CCND1","ONCOGENE",3,0
+"SMAD2 LoF","variant","CDK4","ONCOGENE",3,1
+"SMAD2 LoF","variant","CCND1","ONCOGENE",3,1
 "SMAD2 LoF","variant","CCND2","ONCOGENE",3,1
 "SMAD2 LoF","variant","MYC","ONCOGENE",2,1
-"SMAD2 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",2,0
-"SMAD2 LoF","variant","ID3","TUMOUR SUPPRESSOR",3,0
-"SMAD2 LoF","variant","TCF7L2","ONCOGENE",3,0
-"SMAD2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"SMAD2 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
+"SMAD2 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",2,-1
+"SMAD2 LoF","variant","ID3","TUMOUR SUPPRESSOR",3,-1
+"SMAD2 LoF","variant","TCF7L2","ONCOGENE",3,-1
+"SMAD2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "SMAD3 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",1,-1
 "SMAD3 LoF","variant","MYC","ONCOGENE",2,1
-"SMAD3 LoF","variant","CCND1","ONCOGENE",3,0
-"SMAD3 LoF","variant","CDK4","ONCOGENE",3,0
+"SMAD3 LoF","variant","CCND1","ONCOGENE",3,1
+"SMAD3 LoF","variant","CDK4","ONCOGENE",3,1
 "SMAD3 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
 "SMAD3 LoF","variant","CCND3","ONCOGENE",3,1
 "SMAD3 LoF","variant","CCND2","ONCOGENE",3,1
-"SMAD3 LoF","variant","MYC","ONCOGENE",3,0
-"SMAD3 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",2,0
-"SMAD3 LoF","variant","ID3","TUMOUR SUPPRESSOR",3,0
-"SMAD3 LoF","variant","TCF7L2","ONCOGENE",3,0
-"SMAD3 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"SMAD3 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
+"SMAD3 LoF","variant","MYC","ONCOGENE",3,1
+"SMAD3 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",2,-1
+"SMAD3 LoF","variant","ID3","TUMOUR SUPPRESSOR",3,-1
+"SMAD3 LoF","variant","TCF7L2","ONCOGENE",3,-1
+"SMAD3 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,-1
 "SMAD4 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",1,-1
 "SMAD4 LoF","variant","ID3","TUMOUR SUPPRESSOR",2,-1
-"SMAD4 LoF","variant","MYC","ONCOGENE",3,0
+"SMAD4 LoF","variant","MYC","ONCOGENE",3,1
 "SMAD4 LoF","variant","TCF7L2","ONCOGENE",2,-1
 "SMAD4 LoF","variant","CCND2","ONCOGENE",3,1
-"SMAD4 LoF","variant","CCND1","ONCOGENE",3,0
+"SMAD4 LoF","variant","CCND1","ONCOGENE",3,1
 "SMAD4 LoF","variant","CCND3","ONCOGENE",3,1
-"SMAD4 LoF","variant","CTNNB1","ONCOGENE",3,0
 "SMAD4 LoF","variant","MYC","ONCOGENE",2,1
-"SMAD4 LoF","variant","CDK4","ONCOGENE",3,0
+"SMAD4 LoF","variant","CDK4","ONCOGENE",3,1
 "SMAD4 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
-"SMAD4 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",2,0
-"SMAD4 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"SMAD4 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,0
 "SMARCA4 LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",1,-1
-"SMARCA4 LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",3,0
-"SMARCA4 LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",3,0
-"SMARCA4 LoF","variant","ARID2","TUMOUR SUPPRESSOR",2,0
-"SMARCA4 LoF","variant","BRD7","TUMOUR SUPPRESSOR",2,0
-"SMARCA4 LoF","variant","PBRM1","TUMOUR SUPPRESSOR",2,0
 "SMARCB1 LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",1,-1
-"SMARCB1 LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",3,0
-"SMARCB1 LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",3,0
-"SMARCB1 LoF","variant","BRD7","TUMOUR SUPPRESSOR",2,0
-"SMARCB1 LoF","variant","ARID2","TUMOUR SUPPRESSOR",2,0
-"SMARCB1 LoF","variant","PBRM1","TUMOUR SUPPRESSOR",2,0
 "SMC1A GoF","variant","SMC1A","ONCOGENE",1,1
 "SMO GoF","variant","SMO","ONCOGENE",1,1
 "SMO GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,-1
@@ -2135,10 +1505,9 @@
 "SMO GoF","variant","NFKBIA","TUMOUR SUPPRESSOR",3,-1
 "SMO GoF","variant","RELA","ONCOGENE",3,-1
 "SMO GoF","variant","SOX9","TUMOUR SUPPRESSOR",3,-1
-"SMO GoF","variant","GLI1","ONCOGENE",3,0
+"SMO GoF","variant","GLI1","ONCOGENE",3,-1
 "SMO GoF","variant","RAF1","ONCOGENE",3,1
 "SMO GoF","variant","RHOA","ONCOGENE",3,1
-"SMO GoF","variant","CTNNB1","ONCOGENE",3,0
 "SOCS1 LoF","variant","SOCS1","TUMOUR SUPPRESSOR",1,-1
 "SOCS1 LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "SOCS1 LoF","variant","STAT6","ONCOGENE",3,1
@@ -2158,147 +1527,85 @@
 "SOS1 GoF","variant","KRAS","ONCOGENE",2,1
 "SOS1 GoF","variant","RRAS2","ONCOGENE",2,1
 "SOS1 GoF","variant","NRAS","ONCOGENE",2,1
-"SOS1 GoF","variant","SOS1","ONCOGENE",3,0
-"SOS1 GoF","variant","EPHA2","TUMOUR SUPPRESSOR",3,0
-"SOS1 GoF","variant","PDGFRA","ONCOGENE",3,0
-"SOS1 GoF","variant","PDGFRB","ONCOGENE",3,0
-"SOS1 GoF","variant","FGFR1","ONCOGENE",3,0
-"SOS1 GoF","variant","KIT","ONCOGENE",3,0
-"SOS1 GoF","variant","NTRK1","ONCOGENE",3,0
-"SOS1 GoF","variant","ERBB2","ONCOGENE",3,0
-"SOS1 GoF","variant","MET","ONCOGENE",3,0
-"SOS1 GoF","variant","ERBB4","TUMOUR SUPPRESSOR",3,0
-"SOS1 GoF","variant","FGFR4","ONCOGENE",3,0
-"SOS1 GoF","variant","EGFR","ONCOGENE",3,0
-"SOS1 GoF","variant","FGFR2","ONCOGENE",3,0
-"SOS1 GoF","variant","FGFR3","ONCOGENE",3,0
-"SOS1 GoF","variant","FLT3","ONCOGENE",3,0
-"SOS1 GoF","variant","KDR","ONCOGENE",3,0
-"SOS1 GoF","variant","ERBB3","ONCOGENE",3,0
 "SOX17 GoF","variant","SOX17","ONCOGENE",1,1
 "SOX17 GoF","variant","TCF7L2","ONCOGENE",2,-1
 "SOX17 GoF","variant","MYC","ONCOGENE",3,1
 "SOX17 GoF","variant","CCND2","ONCOGENE",3,1
 "SOX17 GoF","variant","CCND1","ONCOGENE",3,1
 "SOX17 GoF","variant","CCND3","ONCOGENE",3,1
-"SOX17 GoF","variant","CTNNB1","ONCOGENE",3,0
 "SOX9 LoF","variant","SOX9","TUMOUR SUPPRESSOR",1,-1
 "SOX9 LoF","variant","BMPR2","TUMOUR SUPPRESSOR",3,-1
 "SPOP GoF","variant","SPOP","ONCOGENE",1,1
-"SPOP GoF","variant","GLI1","ONCOGENE",3,0
-"SPOP GoF","variant","PTCH1","TUMOUR SUPPRESSOR",3,0
-"SPOP GoF","variant","CCND1","ONCOGENE",3,0
-"SPOP GoF","variant","CCND2","ONCOGENE",3,0
-"SPOP GoF","variant","BCL2","ONCOGENE",3,0
-"SPOP GoF","variant","GLI1","ONCOGENE",2,0
 "STAG2 LoF","variant","STAG2","TUMOUR SUPPRESSOR",1,-1
 "STAT6 GoF","variant","STAT6","ONCOGENE",1,1
 "STAT6 GoF","variant","BCL2","ONCOGENE",2,1
 "STAT6 GoF","variant","JAK3","ONCOGENE",3,-1
 "STAT6 GoF","variant","MYC","ONCOGENE",2,1
-"STAT6 GoF","variant","CCND1","ONCOGENE",3,0
-"STAT6 GoF","variant","CDK4","ONCOGENE",3,0
+"STAT6 GoF","variant","CCND1","ONCOGENE",3,-1
+"STAT6 GoF","variant","CDK4","ONCOGENE",3,-1
 "STAT6 GoF","variant","CCND1","ONCOGENE",2,1
 "STAT6 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
 "STAT6 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,1
-"STAT6 GoF","variant","CCND3","ONCOGENE",3,0
-"STAT6 GoF","variant","CCND2","ONCOGENE",3,0
+"STAT6 GoF","variant","CCND3","ONCOGENE",3,-1
+"STAT6 GoF","variant","CCND2","ONCOGENE",3,-1
 "STAT6 GoF","variant","PIM1","TUMOUR SUPPRESSOR",2,1
-"STAT6 GoF","variant","STAT6","ONCOGENE",3,0
+"STAT6 GoF","variant","STAT6","ONCOGENE",3,-1
 "STAT6 GoF","variant","CCND3","ONCOGENE",2,1
 "STAT6 GoF","variant","SOCS1","TUMOUR SUPPRESSOR",2,1
 "STAT6 GoF","variant","CCND2","ONCOGENE",2,1
-"STAT6 GoF","variant","STAT6","ONCOGENE",2,0
-"STAT6 GoF","variant","BCL2","ONCOGENE",3,0
-"STAT6 GoF","variant","MYC","ONCOGENE",3,0
-"STAT6 GoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"STAT6 GoF","variant","PIM1","TUMOUR SUPPRESSOR",3,0
-"STAT6 GoF","variant","SOCS1","TUMOUR SUPPRESSOR",3,0
 "STK11 LoF","variant","STK11","TUMOUR SUPPRESSOR",1,-1
 "STK11 LoF","variant","TSC1","TUMOUR SUPPRESSOR",3,1
 "STK11 LoF","variant","TSC2","TUMOUR SUPPRESSOR",3,1
 "STK11 LoF","variant","MTOR","ONCOGENE",3,1
 "TBL1XR1 LoF","variant","TBL1XR1","TUMOUR SUPPRESSOR",1,-1
-"TBL1XR1 LoF","variant","APC","TUMOUR SUPPRESSOR",2,0
-"TBL1XR1 LoF","variant","CTNNB1","ONCOGENE",3,0
-"TBL1XR1 LoF","variant","CTNNB1","ONCOGENE",2,0
-"TBL1XR1 LoF","variant","CCND2","ONCOGENE",3,0
-"TBL1XR1 LoF","variant","CCND3","ONCOGENE",3,0
-"TBL1XR1 LoF","variant","TCF7L2","ONCOGENE",3,0
-"TBL1XR1 LoF","variant","CCND1","ONCOGENE",3,0
-"TBL1XR1 LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"TBL1XR1 LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"TBL1XR1 LoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
 "TCF7L2 GoF","variant","TCF7L2","ONCOGENE",1,1
 "TCF7L2 GoF","variant","MYC","ONCOGENE",2,1
-"TCF7L2 GoF","variant","CCND1","ONCOGENE",3,0
+"TCF7L2 GoF","variant","CCND1","ONCOGENE",3,1
 "TCF7L2 GoF","variant","CDK4","ONCOGENE",3,1
-"TCF7L2 GoF","variant","CCND2","ONCOGENE",3,0
+"TCF7L2 GoF","variant","CCND2","ONCOGENE",3,1
 "TCF7L2 GoF","variant","FAS","TUMOUR SUPPRESSOR",3,1
 "TCF7L2 GoF","variant","MYC","ONCOGENE",3,1
 "TCF7L2 GoF","variant","TP53","TUMOUR SUPPRESSOR",3,1
-"TCF7L2 GoF","variant","CCND3","ONCOGENE",3,0
+"TCF7L2 GoF","variant","CCND3","ONCOGENE",3,1
 "TCF7L2 GoF","variant","CCND2","ONCOGENE",2,1
 "TCF7L2 GoF","variant","RB1","TUMOUR SUPPRESSOR",3,-1
 "TCF7L2 GoF","variant","CCND1","ONCOGENE",2,1
 "TCF7L2 GoF","variant","CCND3","ONCOGENE",2,1
-"TCF7L2 GoF","variant","CTNNB1","ONCOGENE",2,0
-"TCF7L2 GoF","variant","CTNNB1","ONCOGENE",3,0
-"TCF7L2 GoF","variant","TCF7L2","ONCOGENE",3,0
-"TCF7L2 GoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"TCF7L2 GoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"TCF7L2 GoF","variant","CDH1","TUMOUR SUPPRESSOR",3,0
 "TFG LoF","variant","TFG","TUMOUR SUPPRESSOR",1,-1
-"TFG LoF","variant","KRAS","ONCOGENE",2,0
-"TFG LoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,0
-"TFG LoF","variant","BRAF","ONCOGENE",3,0
-"TFG LoF","variant","PIK3CB","ONCOGENE",3,0
-"TFG LoF","variant","ARAF","ONCOGENE",3,0
-"TFG LoF","variant","RAF1","ONCOGENE",3,0
-"TFG LoF","variant","RALGDS","ONCOGENE",3,0
-"TFG LoF","variant","PIK3CA","ONCOGENE",3,0
-"TFG LoF","variant","HRAS","ONCOGENE",2,0
-"TFG LoF","variant","NRAS","ONCOGENE",2,0
 "TGFBR2 LoF","variant","TGFBR2","TUMOUR SUPPRESSOR",1,-1
 "TGFBR2 LoF","variant","AKT1","ONCOGENE",3,1
 "TGFBR2 LoF","variant","PPP2R1A","ONCOGENE",2,-1
-"TGFBR2 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",2,0
-"TGFBR2 LoF","variant","MYC","ONCOGENE",3,0
-"TGFBR2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"TGFBR2 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,0
-"TGFBR2 LoF","variant","SMAD2","TUMOUR SUPPRESSOR",2,0
+"TGFBR2 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",2,-1
+"TGFBR2 LoF","variant","MYC","ONCOGENE",3,1
+"TGFBR2 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
+"TGFBR2 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,1
+"TGFBR2 LoF","variant","SMAD2","TUMOUR SUPPRESSOR",2,-1
 "TGFBR2 LoF","variant","DAXX","TUMOUR SUPPRESSOR",2,-1
 "TGFBR2 LoF","variant","RHOA","ONCOGENE",2,-1
-"TGFBR2 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",2,0
-"TGFBR2 LoF","variant","ID3","TUMOUR SUPPRESSOR",3,0
-"TGFBR2 LoF","variant","TCF7L2","ONCOGENE",3,0
-"TGFBR2 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",3,0
 "TGIF1 LoF","variant","TGIF1","TUMOUR SUPPRESSOR",1,-1
 "TGIF1 LoF","variant","SMAD2","TUMOUR SUPPRESSOR",2,1
 "TGIF1 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
 "TGIF1 LoF","variant","MYC","ONCOGENE",3,1
-"TGIF1 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,0
+"TGIF1 LoF","variant","SMAD4","TUMOUR SUPPRESSOR",3,1
 "TGIF1 LoF","variant","SMAD3","TUMOUR SUPPRESSOR",2,1
 "TNFRSF14 LoF","variant","TNFRSF14","TUMOUR SUPPRESSOR",1,-1
 "TP53 LoF","variant","TP53","TUMOUR SUPPRESSOR",1,-1
 "TP53 LoF","variant","MDM2","ONCOGENE",2,-1
 "TP53 LoF","variant","RB1","TUMOUR SUPPRESSOR",3,1
 "TP53 LoF","variant","TP53","TUMOUR SUPPRESSOR",3,-1
-"TP53 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,0
-"TP53 LoF","variant","CCND3","ONCOGENE",3,0
-"TP53 LoF","variant","CDK4","ONCOGENE",3,0
-"TP53 LoF","variant","CCND1","ONCOGENE",3,0
-"TP53 LoF","variant","CCND2","ONCOGENE",3,0
+"TP53 LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",2,-1
+"TP53 LoF","variant","CCND3","ONCOGENE",3,-1
+"TP53 LoF","variant","CDK4","ONCOGENE",3,-1
+"TP53 LoF","variant","CCND1","ONCOGENE",3,-1
+"TP53 LoF","variant","CCND2","ONCOGENE",3,-1
 "TP53 LoF","variant","PTEN","TUMOUR SUPPRESSOR",2,-1
-"TP53 LoF","variant","BCL2","ONCOGENE",3,0
-"TP53 LoF","variant","CTNNB1","ONCOGENE",3,0
+"TP53 LoF","variant","BCL2","ONCOGENE",3,1
 "TP53 LoF","variant","PPM1D","TUMOUR SUPPRESSOR",2,-1
 "TP53 LoF","variant","TSC2","TUMOUR SUPPRESSOR",2,-1
 "TP53 LoF","variant","SDC4","TUMOUR SUPPRESSOR",3,-1
-"TP53 LoF","variant","CASP8","TUMOUR SUPPRESSOR",3,0
 "TP53 LoF","variant","FAS","TUMOUR SUPPRESSOR",2,-1
 "TP53 LoF","variant","DAXX","TUMOUR SUPPRESSOR",3,-1
-"TP53 LoF","variant","DDB2","TUMOUR SUPPRESSOR",2,0
+"TP53 LoF","variant","DDB2","TUMOUR SUPPRESSOR",2,-1
 "TP53 LoF","variant","BCL2","ONCOGENE",2,1
 "TRAF3 LoF","variant","TRAF3","TUMOUR SUPPRESSOR",1,-1
 "TSC1 LoF","variant","TSC1","TUMOUR SUPPRESSOR",1,-1
@@ -2314,14 +1621,8 @@
 "VAV1 GoF","variant","PIK3CB","ONCOGENE",3,1
 "VAV1 GoF","variant","PIK3R1","TUMOUR SUPPRESSOR",3,1
 "VHL LoF","variant","VHL","TUMOUR SUPPRESSOR",1,-1
-"VHL LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,0
-"VHL LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,0
-"VHL LoF","variant","BCL2","ONCOGENE",3,0
-"VHL LoF","variant","CREBBP","TUMOUR SUPPRESSOR",3,0
-"VHL LoF","variant","EP300","TUMOUR SUPPRESSOR",3,0
-"VHL LoF","variant","EPAS1","ONCOGENE",2,0
+"VHL LoF","variant","CDKN1B","TUMOUR SUPPRESSOR",3,1
+"VHL LoF","variant","CDKN1A","TUMOUR SUPPRESSOR",3,1
+"VHL LoF","variant","BCL2","ONCOGENE",3,1
 "WAS LoF","variant","WAS","TUMOUR SUPPRESSOR",1,-1
-"WAS LoF","variant","SMARCB1","TUMOUR SUPPRESSOR",3,0
-"WAS LoF","variant","SMARCA4","TUMOUR SUPPRESSOR",3,0
 "ZNRF3 LoF","variant","ZNRF3","TUMOUR SUPPRESSOR",1,-1
-"ZNRF3 LoF","variant","PLCB4","ONCOGENE",3,0
